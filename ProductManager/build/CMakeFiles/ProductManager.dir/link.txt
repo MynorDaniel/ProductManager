@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ProductManager.dir/src/main.cpp.o -o ProductManager 

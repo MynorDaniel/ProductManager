@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/ProductManager.dir/src/main.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/main.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/main.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/main.cpp.o"
+}
+]

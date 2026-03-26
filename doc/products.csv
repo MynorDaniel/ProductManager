@@ -1,0 +1,2001 @@
+"Nombre","CodigoBarra","Categoria","FechaCaducidad","Marca","Precio","Stock"
+
+"Queso Fresco 200g","1000000000001","Bebidas","2027-02-02","La Granja","3.75","2"
+
+"Yogurt 300g","1000000000002","Panaderia","2027-03-03","Coca Cola","4.5","3"
+
+"Coca Cola 400g","1000000000003","Snacks","2027-04-04","Pepsi","5.25","4"
+
+"Pepsi 500g","1000000000004","Enlatados","2027-05-05","Bimbo","6.0","5"
+
+"Pan Blanco 100g","1000000000005","Granos","2027-06-06","Lays","6.75","6"
+
+"Pan Integral 200g","1000000000006","Lacteos","2027-07-07","Tortrix","7.5","7"
+
+"Papas Fritas 300g","1000000000007","Bebidas","2027-08-08","Ducal","8.25","8"
+
+"Tortrix 400g","1000000000008","Panaderia","2027-09-09","Sardimar","9.0","9"
+
+"Atun en Lata 500g","1000000000009","Snacks","2027-10-10","Gallo Dorado","9.75","10"
+
+"Frijoles Volteados 100g","1000000000010","Enlatados","2027-11-11","Dos Pinos","10.5","11"
+
+"Arroz 200g","1000000000011","Granos","2027-12-12","La Granja","11.25","12"
+
+"Azúcar 300g","1000000000012","Lacteos","2027-01-13","Coca Cola","12.0","13"
+
+"Café 400g","1000000000013","Bebidas","2027-02-14","Pepsi","12.75","14"
+
+"Agua Pura 500g","1000000000014","Panaderia","2027-03-15","Bimbo","13.5","15"
+
+"Jugo 100g","1000000000015","Snacks","2027-04-16","Lays","14.25","16"
+
+"Leche Entera 200g","1000000000016","Enlatados","2027-05-17","Tortrix","15.0","17"
+
+"Queso Fresco 300g","1000000000017","Granos","2027-06-18","Ducal","15.75","18"
+
+"Yogurt 400g","1000000000018","Lacteos","2027-07-19","Sardimar","16.5","19"
+
+"Coca Cola 500g","1000000000019","Bebidas","2027-08-20","Gallo Dorado","17.25","20"
+
+"Pepsi 100g","1000000000020","Panaderia","2027-09-21","Dos Pinos","18.0","21"
+
+"Pan Blanco 200g","1000000000021","Snacks","2027-10-22","La Granja","18.75","22"
+
+"Pan Integral 300g","1000000000022","Enlatados","2027-11-23","Coca Cola","19.5","23"
+
+"Papas Fritas 400g","1000000000023","Granos","2027-12-24","Pepsi","20.25","24"
+
+"Tortrix 500g","1000000000024","Lacteos","2027-01-25","Bimbo","21.0","25"
+
+"Atun en Lata 100g","1000000000025","Bebidas","2027-02-26","Lays","21.75","26"
+
+"Frijoles Volteados 200g","1000000000026","Panaderia","2027-03-27","Tortrix","22.5","27"
+
+"Arroz 300g","1000000000027","Snacks","2027-04-28","Ducal","23.25","28"
+
+"Azúcar 400g","1000000000028","Enlatados","2027-05-01","Sardimar","24.0","29"
+
+"Café 500g","1000000000029","Granos","2027-06-02","Gallo Dorado","24.75","30"
+
+"Agua Pura 100g","1000000000030","Lacteos","2027-07-03","Dos Pinos","25.5","31"
+
+"Jugo 200g","1000000000031","Bebidas","2027-08-04","La Granja","26.25","32"
+
+"Leche Entera 300g","1000000000032","Panaderia","2027-09-05","Coca Cola","27.0","33"
+
+"Queso Fresco 400g","1000000000033","Snacks","2027-10-06","Pepsi","27.75","34"
+
+"Yogurt 500g","1000000000034","Enlatados","2027-11-07","Bimbo","28.5","35"
+
+"Coca Cola 100g","1000000000035","Granos","2027-12-08","Lays","29.25","36"
+
+"Pepsi 200g","1000000000036","Lacteos","2027-01-09","Tortrix","30.0","37"
+
+"Pan Blanco 300g","1000000000037","Bebidas","2027-02-10","Ducal","30.75","38"
+
+"Pan Integral 400g","1000000000038","Panaderia","2027-03-11","Sardimar","31.5","39"
+
+"Papas Fritas 500g","1000000000039","Snacks","2027-04-12","Gallo Dorado","32.25","40"
+
+"Tortrix 100g","1000000000040","Enlatados","2027-05-13","Dos Pinos","33.0","41"
+
+"Atun en Lata 200g","1000000000041","Granos","2027-06-14","La Granja","33.75","42"
+
+"Frijoles Volteados 300g","1000000000042","Lacteos","2027-07-15","Coca Cola","34.5","43"
+
+"Arroz 400g","1000000000043","Bebidas","2027-08-16","Pepsi","35.25","44"
+
+"Azúcar 500g","1000000000044","Panaderia","2027-09-17","Bimbo","36.0","45"
+
+"Café 100g","1000000000045","Snacks","2027-10-18","Lays","36.75","46"
+
+"Agua Pura 200g","1000000000046","Enlatados","2027-11-19","Tortrix","37.5","47"
+
+"Jugo 300g","1000000000047","Granos","2027-12-20","Ducal","38.25","48"
+
+"Leche Entera 400g","1000000000048","Lacteos","2027-01-21","Sardimar","39.0","49"
+
+"Queso Fresco 500g","1000000000049","Bebidas","2027-02-22","Gallo Dorado","39.75","50"
+
+"Yogurt 100g","1000000000050","Panaderia","2027-03-23","Dos Pinos","3.0","51"
+
+"Coca Cola 200g","1000000000051","Snacks","2027-04-24","La Granja","3.75","52"
+
+"Pepsi 300g","1000000000052","Enlatados","2027-05-25","Coca Cola","4.5","53"
+
+"Pan Blanco 400g","1000000000053","Granos","2027-06-26","Pepsi","5.25","54"
+
+"Pan Integral 500g","1000000000054","Lacteos","2027-07-27","Bimbo","6.0","55"
+
+"Papas Fritas 100g","1000000000055","Bebidas","2027-08-28","Lays","6.75","56"
+
+"Tortrix 200g","1000000000056","Panaderia","2027-09-01","Tortrix","7.5","57"
+
+"Atun en Lata 300g","1000000000057","Snacks","2027-10-02","Ducal","8.25","58"
+
+"Frijoles Volteados 400g","1000000000058","Enlatados","2027-11-03","Sardimar","9.0","59"
+
+"Arroz 500g","1000000000059","Granos","2027-12-04","Gallo Dorado","9.75","60"
+
+"Azúcar 100g","1000000000060","Lacteos","2027-01-05","Dos Pinos","10.5","61"
+
+"Café 200g","1000000000061","Bebidas","2027-02-06","La Granja","11.25","62"
+
+"Agua Pura 300g","1000000000062","Panaderia","2027-03-07","Coca Cola","12.0","63"
+
+"Jugo 400g","1000000000063","Snacks","2027-04-08","Pepsi","12.75","64"
+
+"Leche Entera 500g","1000000000064","Enlatados","2027-05-09","Bimbo","13.5","65"
+
+"Queso Fresco 100g","1000000000065","Granos","2027-06-10","Lays","14.25","66"
+
+"Yogurt 200g","1000000000066","Lacteos","2027-07-11","Tortrix","15.0","67"
+
+"Coca Cola 300g","1000000000067","Bebidas","2027-08-12","Ducal","15.75","68"
+
+"Pepsi 400g","1000000000068","Panaderia","2027-09-13","Sardimar","16.5","69"
+
+"Pan Blanco 500g","1000000000069","Snacks","2027-10-14","Gallo Dorado","17.25","70"
+
+"Pan Integral 100g","1000000000070","Enlatados","2027-11-15","Dos Pinos","18.0","71"
+
+"Papas Fritas 200g","1000000000071","Granos","2027-12-16","La Granja","18.75","72"
+
+"Tortrix 300g","1000000000072","Lacteos","2027-01-17","Coca Cola","19.5","73"
+
+"Atun en Lata 400g","1000000000073","Bebidas","2027-02-18","Pepsi","20.25","74"
+
+"Frijoles Volteados 500g","1000000000074","Panaderia","2027-03-19","Bimbo","21.0","75"
+
+"Arroz 100g","1000000000075","Snacks","2027-04-20","Lays","21.75","76"
+
+"Azúcar 200g","1000000000076","Enlatados","2027-05-21","Tortrix","22.5","77"
+
+"Café 300g","1000000000077","Granos","2027-06-22","Ducal","23.25","78"
+
+"Agua Pura 400g","1000000000078","Lacteos","2027-07-23","Sardimar","24.0","79"
+
+"Jugo 500g","1000000000079","Bebidas","2027-08-24","Gallo Dorado","24.75","80"
+
+"Leche Entera 100g","1000000000080","Panaderia","2027-09-25","Dos Pinos","25.5","81"
+
+"Queso Fresco 200g","1000000000081","Snacks","2027-10-26","La Granja","26.25","82"
+
+"Yogurt 300g","1000000000082","Enlatados","2027-11-27","Coca Cola","27.0","83"
+
+"Coca Cola 400g","1000000000083","Granos","2027-12-28","Pepsi","27.75","84"
+
+"Pepsi 500g","1000000000084","Lacteos","2027-01-01","Bimbo","28.5","85"
+
+"Pan Blanco 100g","1000000000085","Bebidas","2027-02-02","Lays","29.25","86"
+
+"Pan Integral 200g","1000000000086","Panaderia","2027-03-03","Tortrix","30.0","87"
+
+"Papas Fritas 300g","1000000000087","Snacks","2027-04-04","Ducal","30.75","88"
+
+"Tortrix 400g","1000000000088","Enlatados","2027-05-05","Sardimar","31.5","89"
+
+"Atun en Lata 500g","1000000000089","Granos","2027-06-06","Gallo Dorado","32.25","90"
+
+"Frijoles Volteados 100g","1000000000090","Lacteos","2027-07-07","Dos Pinos","33.0","91"
+
+"Arroz 200g","1000000000091","Bebidas","2027-08-08","La Granja","33.75","92"
+
+"Azúcar 300g","1000000000092","Panaderia","2027-09-09","Coca Cola","34.5","93"
+
+"Café 400g","1000000000093","Snacks","2027-10-10","Pepsi","35.25","94"
+
+"Agua Pura 500g","1000000000094","Enlatados","2027-11-11","Bimbo","36.0","95"
+
+"Jugo 100g","1000000000095","Granos","2027-12-12","Lays","36.75","96"
+
+"Leche Entera 200g","1000000000096","Lacteos","2027-01-13","Tortrix","37.5","97"
+
+"Queso Fresco 300g","1000000000097","Bebidas","2027-02-14","Ducal","38.25","98"
+
+"Yogurt 400g","1000000000098","Panaderia","2027-03-15","Sardimar","39.0","99"
+
+"Coca Cola 500g","1000000000099","Snacks","2027-04-16","Gallo Dorado","39.75","100"
+
+"Pepsi 100g","1000000000100","Enlatados","2027-05-17","Dos Pinos","3.0","1"
+
+"Pan Blanco 200g","1000000000101","Granos","2027-06-18","La Granja","3.75","2"
+
+"Pan Integral 300g","1000000000102","Lacteos","2027-07-19","Coca Cola","4.5","3"
+
+"Papas Fritas 400g","1000000000103","Bebidas","2027-08-20","Pepsi","5.25","4"
+
+"Tortrix 500g","1000000000104","Panaderia","2027-09-21","Bimbo","6.0","5"
+
+"Atun en Lata 100g","1000000000105","Snacks","2027-10-22","Lays","6.75","6"
+
+"Frijoles Volteados 200g","1000000000106","Enlatados","2027-11-23","Tortrix","7.5","7"
+
+"Arroz 300g","1000000000107","Granos","2027-12-24","Ducal","8.25","8"
+
+"Azúcar 400g","1000000000108","Lacteos","2027-01-25","Sardimar","9.0","9"
+
+"Café 500g","1000000000109","Bebidas","2027-02-26","Gallo Dorado","9.75","10"
+
+"Agua Pura 100g","1000000000110","Panaderia","2027-03-27","Dos Pinos","10.5","11"
+
+"Jugo 200g","1000000000111","Snacks","2027-04-28","La Granja","11.25","12"
+
+"Leche Entera 300g","1000000000112","Enlatados","2027-05-01","Coca Cola","12.0","13"
+
+"Queso Fresco 400g","1000000000113","Granos","2027-06-02","Pepsi","12.75","14"
+
+"Yogurt 500g","1000000000114","Lacteos","2027-07-03","Bimbo","13.5","15"
+
+"Coca Cola 100g","1000000000115","Bebidas","2027-08-04","Lays","14.25","16"
+
+"Pepsi 200g","1000000000116","Panaderia","2027-09-05","Tortrix","15.0","17"
+
+"Pan Blanco 300g","1000000000117","Snacks","2027-10-06","Ducal","15.75","18"
+
+"Pan Integral 400g","1000000000118","Enlatados","2027-11-07","Sardimar","16.5","19"
+
+"Papas Fritas 500g","1000000000119","Granos","2027-12-08","Gallo Dorado","17.25","20"
+
+"Tortrix 100g","1000000000120","Lacteos","2027-01-09","Dos Pinos","18.0","21"
+
+"Atun en Lata 200g","1000000000121","Bebidas","2027-02-10","La Granja","18.75","22"
+
+"Frijoles Volteados 300g","1000000000122","Panaderia","2027-03-11","Coca Cola","19.5","23"
+
+"Arroz 400g","1000000000123","Snacks","2027-04-12","Pepsi","20.25","24"
+
+"Azúcar 500g","1000000000124","Enlatados","2027-05-13","Bimbo","21.0","25"
+
+"Café 100g","1000000000125","Granos","2027-06-14","Lays","21.75","26"
+
+"Agua Pura 200g","1000000000126","Lacteos","2027-07-15","Tortrix","22.5","27"
+
+"Jugo 300g","1000000000127","Bebidas","2027-08-16","Ducal","23.25","28"
+
+"Leche Entera 400g","1000000000128","Panaderia","2027-09-17","Sardimar","24.0","29"
+
+"Queso Fresco 500g","1000000000129","Snacks","2027-10-18","Gallo Dorado","24.75","30"
+
+"Yogurt 100g","1000000000130","Enlatados","2027-11-19","Dos Pinos","25.5","31"
+
+"Coca Cola 200g","1000000000131","Granos","2027-12-20","La Granja","26.25","32"
+
+"Pepsi 300g","1000000000132","Lacteos","2027-01-21","Coca Cola","27.0","33"
+
+"Pan Blanco 400g","1000000000133","Bebidas","2027-02-22","Pepsi","27.75","34"
+
+"Pan Integral 500g","1000000000134","Panaderia","2027-03-23","Bimbo","28.5","35"
+
+"Papas Fritas 100g","1000000000135","Snacks","2027-04-24","Lays","29.25","36"
+
+"Tortrix 200g","1000000000136","Enlatados","2027-05-25","Tortrix","30.0","37"
+
+"Atun en Lata 300g","1000000000137","Granos","2027-06-26","Ducal","30.75","38"
+
+"Frijoles Volteados 400g","1000000000138","Lacteos","2027-07-27","Sardimar","31.5","39"
+
+"Arroz 500g","1000000000139","Bebidas","2027-08-28","Gallo Dorado","32.25","40"
+
+"Azúcar 100g","1000000000140","Panaderia","2027-09-01","Dos Pinos","33.0","41"
+
+"Café 200g","1000000000141","Snacks","2027-10-02","La Granja","33.75","42"
+
+"Agua Pura 300g","1000000000142","Enlatados","2027-11-03","Coca Cola","34.5","43"
+
+"Jugo 400g","1000000000143","Granos","2027-12-04","Pepsi","35.25","44"
+
+"Leche Entera 500g","1000000000144","Lacteos","2027-01-05","Bimbo","36.0","45"
+
+"Queso Fresco 100g","1000000000145","Bebidas","2027-02-06","Lays","36.75","46"
+
+"Yogurt 200g","1000000000146","Panaderia","2027-03-07","Tortrix","37.5","47"
+
+"Coca Cola 300g","1000000000147","Snacks","2027-04-08","Ducal","38.25","48"
+
+"Pepsi 400g","1000000000148","Enlatados","2027-05-09","Sardimar","39.0","49"
+
+"Pan Blanco 500g","1000000000149","Granos","2027-06-10","Gallo Dorado","39.75","50"
+
+"Pan Integral 100g","1000000000150","Lacteos","2027-07-11","Dos Pinos","3.0","51"
+
+"Papas Fritas 200g","1000000000151","Bebidas","2027-08-12","La Granja","3.75","52"
+
+"Tortrix 300g","1000000000152","Panaderia","2027-09-13","Coca Cola","4.5","53"
+
+"Atun en Lata 400g","1000000000153","Snacks","2027-10-14","Pepsi","5.25","54"
+
+"Frijoles Volteados 500g","1000000000154","Enlatados","2027-11-15","Bimbo","6.0","55"
+
+"Arroz 100g","1000000000155","Granos","2027-12-16","Lays","6.75","56"
+
+"Azúcar 200g","1000000000156","Lacteos","2027-01-17","Tortrix","7.5","57"
+
+"Café 300g","1000000000157","Bebidas","2027-02-18","Ducal","8.25","58"
+
+"Agua Pura 400g","1000000000158","Panaderia","2027-03-19","Sardimar","9.0","59"
+
+"Jugo 500g","1000000000159","Snacks","2027-04-20","Gallo Dorado","9.75","60"
+
+"Leche Entera 100g","1000000000160","Enlatados","2027-05-21","Dos Pinos","10.5","61"
+
+"Queso Fresco 200g","1000000000161","Granos","2027-06-22","La Granja","11.25","62"
+
+"Yogurt 300g","1000000000162","Lacteos","2027-07-23","Coca Cola","12.0","63"
+
+"Coca Cola 400g","1000000000163","Bebidas","2027-08-24","Pepsi","12.75","64"
+
+"Pepsi 500g","1000000000164","Panaderia","2027-09-25","Bimbo","13.5","65"
+
+"Pan Blanco 100g","1000000000165","Snacks","2027-10-26","Lays","14.25","66"
+
+"Pan Integral 200g","1000000000166","Enlatados","2027-11-27","Tortrix","15.0","67"
+
+"Papas Fritas 300g","1000000000167","Granos","2027-12-28","Ducal","15.75","68"
+
+"Tortrix 400g","1000000000168","Lacteos","2027-01-01","Sardimar","16.5","69"
+
+"Atun en Lata 500g","1000000000169","Bebidas","2027-02-02","Gallo Dorado","17.25","70"
+
+"Frijoles Volteados 100g","1000000000170","Panaderia","2027-03-03","Dos Pinos","18.0","71"
+
+"Arroz 200g","1000000000171","Snacks","2027-04-04","La Granja","18.75","72"
+
+"Azúcar 300g","1000000000172","Enlatados","2027-05-05","Coca Cola","19.5","73"
+
+"Café 400g","1000000000173","Granos","2027-06-06","Pepsi","20.25","74"
+
+"Agua Pura 500g","1000000000174","Lacteos","2027-07-07","Bimbo","21.0","75"
+
+"Jugo 100g","1000000000175","Bebidas","2027-08-08","Lays","21.75","76"
+
+"Leche Entera 200g","1000000000176","Panaderia","2027-09-09","Tortrix","22.5","77"
+
+"Queso Fresco 300g","1000000000177","Snacks","2027-10-10","Ducal","23.25","78"
+
+"Yogurt 400g","1000000000178","Enlatados","2027-11-11","Sardimar","24.0","79"
+
+"Coca Cola 500g","1000000000179","Granos","2027-12-12","Gallo Dorado","24.75","80"
+
+"Pepsi 100g","1000000000180","Lacteos","2027-01-13","Dos Pinos","25.5","81"
+
+"Pan Blanco 200g","1000000000181","Bebidas","2027-02-14","La Granja","26.25","82"
+
+"Pan Integral 300g","1000000000182","Panaderia","2027-03-15","Coca Cola","27.0","83"
+
+"Papas Fritas 400g","1000000000183","Snacks","2027-04-16","Pepsi","27.75","84"
+
+"Tortrix 500g","1000000000184","Enlatados","2027-05-17","Bimbo","28.5","85"
+
+"Atun en Lata 100g","1000000000185","Granos","2027-06-18","Lays","29.25","86"
+
+"Frijoles Volteados 200g","1000000000186","Lacteos","2027-07-19","Tortrix","30.0","87"
+
+"Arroz 300g","1000000000187","Bebidas","2027-08-20","Ducal","30.75","88"
+
+"Azúcar 400g","1000000000188","Panaderia","2027-09-21","Sardimar","31.5","89"
+
+"Café 500g","1000000000189","Snacks","2027-10-22","Gallo Dorado","32.25","90"
+
+"Agua Pura 100g","1000000000190","Enlatados","2027-11-23","Dos Pinos","33.0","91"
+
+"Jugo 200g","1000000000191","Granos","2027-12-24","La Granja","33.75","92"
+
+"Leche Entera 300g","1000000000192","Lacteos","2027-01-25","Coca Cola","34.5","93"
+
+"Queso Fresco 400g","1000000000193","Bebidas","2027-02-26","Pepsi","35.25","94"
+
+"Yogurt 500g","1000000000194","Panaderia","2027-03-27","Bimbo","36.0","95"
+
+"Coca Cola 100g","1000000000195","Snacks","2027-04-28","Lays","36.75","96"
+
+"Pepsi 200g","1000000000196","Enlatados","2027-05-01","Tortrix","37.5","97"
+
+"Pan Blanco 300g","1000000000197","Granos","2027-06-02","Ducal","38.25","98"
+
+"Pan Integral 400g","1000000000198","Lacteos","2027-07-03","Sardimar","39.0","99"
+
+"Papas Fritas 500g","1000000000199","Bebidas","2027-08-04","Gallo Dorado","39.75","100"
+
+"Tortrix 100g","1000000000200","Panaderia","2027-09-05","Dos Pinos","3.0","1"
+
+"Atun en Lata 200g","1000000000201","Snacks","2027-10-06","La Granja","3.75","2"
+
+"Frijoles Volteados 300g","1000000000202","Enlatados","2027-11-07","Coca Cola","4.5","3"
+
+"Arroz 400g","1000000000203","Granos","2027-12-08","Pepsi","5.25","4"
+
+"Azúcar 500g","1000000000204","Lacteos","2027-01-09","Bimbo","6.0","5"
+
+"Café 100g","1000000000205","Bebidas","2027-02-10","Lays","6.75","6"
+
+"Agua Pura 200g","1000000000206","Panaderia","2027-03-11","Tortrix","7.5","7"
+
+"Jugo 300g","1000000000207","Snacks","2027-04-12","Ducal","8.25","8"
+
+"Leche Entera 400g","1000000000208","Enlatados","2027-05-13","Sardimar","9.0","9"
+
+"Queso Fresco 500g","1000000000209","Granos","2027-06-14","Gallo Dorado","9.75","10"
+
+"Yogurt 100g","1000000000210","Lacteos","2027-07-15","Dos Pinos","10.5","11"
+
+"Coca Cola 200g","1000000000211","Bebidas","2027-08-16","La Granja","11.25","12"
+
+"Pepsi 300g","1000000000212","Panaderia","2027-09-17","Coca Cola","12.0","13"
+
+"Pan Blanco 400g","1000000000213","Snacks","2027-10-18","Pepsi","12.75","14"
+
+"Pan Integral 500g","1000000000214","Enlatados","2027-11-19","Bimbo","13.5","15"
+
+"Papas Fritas 100g","1000000000215","Granos","2027-12-20","Lays","14.25","16"
+
+"Tortrix 200g","1000000000216","Lacteos","2027-01-21","Tortrix","15.0","17"
+
+"Atun en Lata 300g","1000000000217","Bebidas","2027-02-22","Ducal","15.75","18"
+
+"Frijoles Volteados 400g","1000000000218","Panaderia","2027-03-23","Sardimar","16.5","19"
+
+"Arroz 500g","1000000000219","Snacks","2027-04-24","Gallo Dorado","17.25","20"
+
+"Azúcar 100g","1000000000220","Enlatados","2027-05-25","Dos Pinos","18.0","21"
+
+"Café 200g","1000000000221","Granos","2027-06-26","La Granja","18.75","22"
+
+"Agua Pura 300g","1000000000222","Lacteos","2027-07-27","Coca Cola","19.5","23"
+
+"Jugo 400g","1000000000223","Bebidas","2027-08-28","Pepsi","20.25","24"
+
+"Leche Entera 500g","1000000000224","Panaderia","2027-09-01","Bimbo","21.0","25"
+
+"Queso Fresco 100g","1000000000225","Snacks","2027-10-02","Lays","21.75","26"
+
+"Yogurt 200g","1000000000226","Enlatados","2027-11-03","Tortrix","22.5","27"
+
+"Coca Cola 300g","1000000000227","Granos","2027-12-04","Ducal","23.25","28"
+
+"Pepsi 400g","1000000000228","Lacteos","2027-01-05","Sardimar","24.0","29"
+
+"Pan Blanco 500g","1000000000229","Bebidas","2027-02-06","Gallo Dorado","24.75","30"
+
+"Pan Integral 100g","1000000000230","Panaderia","2027-03-07","Dos Pinos","25.5","31"
+
+"Papas Fritas 200g","1000000000231","Snacks","2027-04-08","La Granja","26.25","32"
+
+"Tortrix 300g","1000000000232","Enlatados","2027-05-09","Coca Cola","27.0","33"
+
+"Atun en Lata 400g","1000000000233","Granos","2027-06-10","Pepsi","27.75","34"
+
+"Frijoles Volteados 500g","1000000000234","Lacteos","2027-07-11","Bimbo","28.5","35"
+
+"Arroz 100g","1000000000235","Bebidas","2027-08-12","Lays","29.25","36"
+
+"Azúcar 200g","1000000000236","Panaderia","2027-09-13","Tortrix","30.0","37"
+
+"Café 300g","1000000000237","Snacks","2027-10-14","Ducal","30.75","38"
+
+"Agua Pura 400g","1000000000238","Enlatados","2027-11-15","Sardimar","31.5","39"
+
+"Jugo 500g","1000000000239","Granos","2027-12-16","Gallo Dorado","32.25","40"
+
+"Leche Entera 100g","1000000000240","Lacteos","2027-01-17","Dos Pinos","33.0","41"
+
+"Queso Fresco 200g","1000000000241","Bebidas","2027-02-18","La Granja","33.75","42"
+
+"Yogurt 300g","1000000000242","Panaderia","2027-03-19","Coca Cola","34.5","43"
+
+"Coca Cola 400g","1000000000243","Snacks","2027-04-20","Pepsi","35.25","44"
+
+"Pepsi 500g","1000000000244","Enlatados","2027-05-21","Bimbo","36.0","45"
+
+"Pan Blanco 100g","1000000000245","Granos","2027-06-22","Lays","36.75","46"
+
+"Pan Integral 200g","1000000000246","Lacteos","2027-07-23","Tortrix","37.5","47"
+
+"Papas Fritas 300g","1000000000247","Bebidas","2027-08-24","Ducal","38.25","48"
+
+"Tortrix 400g","1000000000248","Panaderia","2027-09-25","Sardimar","39.0","49"
+
+"Atun en Lata 500g","1000000000249","Snacks","2027-10-26","Gallo Dorado","39.75","50"
+
+"Frijoles Volteados 100g","1000000000250","Enlatados","2027-11-27","Dos Pinos","3.0","51"
+
+"Arroz 200g","1000000000251","Granos","2027-12-28","La Granja","3.75","52"
+
+"Azúcar 300g","1000000000252","Lacteos","2027-01-01","Coca Cola","4.5","53"
+
+"Café 400g","1000000000253","Bebidas","2027-02-02","Pepsi","5.25","54"
+
+"Agua Pura 500g","1000000000254","Panaderia","2027-03-03","Bimbo","6.0","55"
+
+"Jugo 100g","1000000000255","Snacks","2027-04-04","Lays","6.75","56"
+
+"Leche Entera 200g","1000000000256","Enlatados","2027-05-05","Tortrix","7.5","57"
+
+"Queso Fresco 300g","1000000000257","Granos","2027-06-06","Ducal","8.25","58"
+
+"Yogurt 400g","1000000000258","Lacteos","2027-07-07","Sardimar","9.0","59"
+
+"Coca Cola 500g","1000000000259","Bebidas","2027-08-08","Gallo Dorado","9.75","60"
+
+"Pepsi 100g","1000000000260","Panaderia","2027-09-09","Dos Pinos","10.5","61"
+
+"Pan Blanco 200g","1000000000261","Snacks","2027-10-10","La Granja","11.25","62"
+
+"Pan Integral 300g","1000000000262","Enlatados","2027-11-11","Coca Cola","12.0","63"
+
+"Papas Fritas 400g","1000000000263","Granos","2027-12-12","Pepsi","12.75","64"
+
+"Tortrix 500g","1000000000264","Lacteos","2027-01-13","Bimbo","13.5","65"
+
+"Atun en Lata 100g","1000000000265","Bebidas","2027-02-14","Lays","14.25","66"
+
+"Frijoles Volteados 200g","1000000000266","Panaderia","2027-03-15","Tortrix","15.0","67"
+
+"Arroz 300g","1000000000267","Snacks","2027-04-16","Ducal","15.75","68"
+
+"Azúcar 400g","1000000000268","Enlatados","2027-05-17","Sardimar","16.5","69"
+
+"Café 500g","1000000000269","Granos","2027-06-18","Gallo Dorado","17.25","70"
+
+"Agua Pura 100g","1000000000270","Lacteos","2027-07-19","Dos Pinos","18.0","71"
+
+"Jugo 200g","1000000000271","Bebidas","2027-08-20","La Granja","18.75","72"
+
+"Leche Entera 300g","1000000000272","Panaderia","2027-09-21","Coca Cola","19.5","73"
+
+"Queso Fresco 400g","1000000000273","Snacks","2027-10-22","Pepsi","20.25","74"
+
+"Yogurt 500g","1000000000274","Enlatados","2027-11-23","Bimbo","21.0","75"
+
+"Coca Cola 100g","1000000000275","Granos","2027-12-24","Lays","21.75","76"
+
+"Pepsi 200g","1000000000276","Lacteos","2027-01-25","Tortrix","22.5","77"
+
+"Pan Blanco 300g","1000000000277","Bebidas","2027-02-26","Ducal","23.25","78"
+
+"Pan Integral 400g","1000000000278","Panaderia","2027-03-27","Sardimar","24.0","79"
+
+"Papas Fritas 500g","1000000000279","Snacks","2027-04-28","Gallo Dorado","24.75","80"
+
+"Tortrix 100g","1000000000280","Enlatados","2027-05-01","Dos Pinos","25.5","81"
+
+"Atun en Lata 200g","1000000000281","Granos","2027-06-02","La Granja","26.25","82"
+
+"Frijoles Volteados 300g","1000000000282","Lacteos","2027-07-03","Coca Cola","27.0","83"
+
+"Arroz 400g","1000000000283","Bebidas","2027-08-04","Pepsi","27.75","84"
+
+"Azúcar 500g","1000000000284","Panaderia","2027-09-05","Bimbo","28.5","85"
+
+"Café 100g","1000000000285","Snacks","2027-10-06","Lays","29.25","86"
+
+"Agua Pura 200g","1000000000286","Enlatados","2027-11-07","Tortrix","30.0","87"
+
+"Jugo 300g","1000000000287","Granos","2027-12-08","Ducal","30.75","88"
+
+"Leche Entera 400g","1000000000288","Lacteos","2027-01-09","Sardimar","31.5","89"
+
+"Queso Fresco 500g","1000000000289","Bebidas","2027-02-10","Gallo Dorado","32.25","90"
+
+"Yogurt 100g","1000000000290","Panaderia","2027-03-11","Dos Pinos","33.0","91"
+
+"Coca Cola 200g","1000000000291","Snacks","2027-04-12","La Granja","33.75","92"
+
+"Pepsi 300g","1000000000292","Enlatados","2027-05-13","Coca Cola","34.5","93"
+
+"Pan Blanco 400g","1000000000293","Granos","2027-06-14","Pepsi","35.25","94"
+
+"Pan Integral 500g","1000000000294","Lacteos","2027-07-15","Bimbo","36.0","95"
+
+"Papas Fritas 100g","1000000000295","Bebidas","2027-08-16","Lays","36.75","96"
+
+"Tortrix 200g","1000000000296","Panaderia","2027-09-17","Tortrix","37.5","97"
+
+"Atun en Lata 300g","1000000000297","Snacks","2027-10-18","Ducal","38.25","98"
+
+"Frijoles Volteados 400g","1000000000298","Enlatados","2027-11-19","Sardimar","39.0","99"
+
+"Arroz 500g","1000000000299","Granos","2027-12-20","Gallo Dorado","39.75","100"
+
+"Azúcar 100g","1000000000300","Lacteos","2027-01-21","Dos Pinos","3.0","1"
+
+"Café 200g","1000000000301","Bebidas","2027-02-22","La Granja","3.75","2"
+
+"Agua Pura 300g","1000000000302","Panaderia","2027-03-23","Coca Cola","4.5","3"
+
+"Jugo 400g","1000000000303","Snacks","2027-04-24","Pepsi","5.25","4"
+
+"Leche Entera 500g","1000000000304","Enlatados","2027-05-25","Bimbo","6.0","5"
+
+"Queso Fresco 100g","1000000000305","Granos","2027-06-26","Lays","6.75","6"
+
+"Yogurt 200g","1000000000306","Lacteos","2027-07-27","Tortrix","7.5","7"
+
+"Coca Cola 300g","1000000000307","Bebidas","2027-08-28","Ducal","8.25","8"
+
+"Pepsi 400g","1000000000308","Panaderia","2027-09-01","Sardimar","9.0","9"
+
+"Pan Blanco 500g","1000000000309","Snacks","2027-10-02","Gallo Dorado","9.75","10"
+
+"Pan Integral 100g","1000000000310","Enlatados","2027-11-03","Dos Pinos","10.5","11"
+
+"Papas Fritas 200g","1000000000311","Granos","2027-12-04","La Granja","11.25","12"
+
+"Tortrix 300g","1000000000312","Lacteos","2027-01-05","Coca Cola","12.0","13"
+
+"Atun en Lata 400g","1000000000313","Bebidas","2027-02-06","Pepsi","12.75","14"
+
+"Frijoles Volteados 500g","1000000000314","Panaderia","2027-03-07","Bimbo","13.5","15"
+
+"Arroz 100g","1000000000315","Snacks","2027-04-08","Lays","14.25","16"
+
+"Azúcar 200g","1000000000316","Enlatados","2027-05-09","Tortrix","15.0","17"
+
+"Café 300g","1000000000317","Granos","2027-06-10","Ducal","15.75","18"
+
+"Agua Pura 400g","1000000000318","Lacteos","2027-07-11","Sardimar","16.5","19"
+
+"Jugo 500g","1000000000319","Bebidas","2027-08-12","Gallo Dorado","17.25","20"
+
+"Leche Entera 100g","1000000000320","Panaderia","2027-09-13","Dos Pinos","18.0","21"
+
+"Queso Fresco 200g","1000000000321","Snacks","2027-10-14","La Granja","18.75","22"
+
+"Yogurt 300g","1000000000322","Enlatados","2027-11-15","Coca Cola","19.5","23"
+
+"Coca Cola 400g","1000000000323","Granos","2027-12-16","Pepsi","20.25","24"
+
+"Pepsi 500g","1000000000324","Lacteos","2027-01-17","Bimbo","21.0","25"
+
+"Pan Blanco 100g","1000000000325","Bebidas","2027-02-18","Lays","21.75","26"
+
+"Pan Integral 200g","1000000000326","Panaderia","2027-03-19","Tortrix","22.5","27"
+
+"Papas Fritas 300g","1000000000327","Snacks","2027-04-20","Ducal","23.25","28"
+
+"Tortrix 400g","1000000000328","Enlatados","2027-05-21","Sardimar","24.0","29"
+
+"Atun en Lata 500g","1000000000329","Granos","2027-06-22","Gallo Dorado","24.75","30"
+
+"Frijoles Volteados 100g","1000000000330","Lacteos","2027-07-23","Dos Pinos","25.5","31"
+
+"Arroz 200g","1000000000331","Bebidas","2027-08-24","La Granja","26.25","32"
+
+"Azúcar 300g","1000000000332","Panaderia","2027-09-25","Coca Cola","27.0","33"
+
+"Café 400g","1000000000333","Snacks","2027-10-26","Pepsi","27.75","34"
+
+"Agua Pura 500g","1000000000334","Enlatados","2027-11-27","Bimbo","28.5","35"
+
+"Jugo 100g","1000000000335","Granos","2027-12-28","Lays","29.25","36"
+
+"Leche Entera 200g","1000000000336","Lacteos","2027-01-01","Tortrix","30.0","37"
+
+"Queso Fresco 300g","1000000000337","Bebidas","2027-02-02","Ducal","30.75","38"
+
+"Yogurt 400g","1000000000338","Panaderia","2027-03-03","Sardimar","31.5","39"
+
+"Coca Cola 500g","1000000000339","Snacks","2027-04-04","Gallo Dorado","32.25","40"
+
+"Pepsi 100g","1000000000340","Enlatados","2027-05-05","Dos Pinos","33.0","41"
+
+"Pan Blanco 200g","1000000000341","Granos","2027-06-06","La Granja","33.75","42"
+
+"Pan Integral 300g","1000000000342","Lacteos","2027-07-07","Coca Cola","34.5","43"
+
+"Papas Fritas 400g","1000000000343","Bebidas","2027-08-08","Pepsi","35.25","44"
+
+"Tortrix 500g","1000000000344","Panaderia","2027-09-09","Bimbo","36.0","45"
+
+"Atun en Lata 100g","1000000000345","Snacks","2027-10-10","Lays","36.75","46"
+
+"Frijoles Volteados 200g","1000000000346","Enlatados","2027-11-11","Tortrix","37.5","47"
+
+"Arroz 300g","1000000000347","Granos","2027-12-12","Ducal","38.25","48"
+
+"Azúcar 400g","1000000000348","Lacteos","2027-01-13","Sardimar","39.0","49"
+
+"Café 500g","1000000000349","Bebidas","2027-02-14","Gallo Dorado","39.75","50"
+
+"Agua Pura 100g","1000000000350","Panaderia","2027-03-15","Dos Pinos","3.0","51"
+
+"Jugo 200g","1000000000351","Snacks","2027-04-16","La Granja","3.75","52"
+
+"Leche Entera 300g","1000000000352","Enlatados","2027-05-17","Coca Cola","4.5","53"
+
+"Queso Fresco 400g","1000000000353","Granos","2027-06-18","Pepsi","5.25","54"
+
+"Yogurt 500g","1000000000354","Lacteos","2027-07-19","Bimbo","6.0","55"
+
+"Coca Cola 100g","1000000000355","Bebidas","2027-08-20","Lays","6.75","56"
+
+"Pepsi 200g","1000000000356","Panaderia","2027-09-21","Tortrix","7.5","57"
+
+"Pan Blanco 300g","1000000000357","Snacks","2027-10-22","Ducal","8.25","58"
+
+"Pan Integral 400g","1000000000358","Enlatados","2027-11-23","Sardimar","9.0","59"
+
+"Papas Fritas 500g","1000000000359","Granos","2027-12-24","Gallo Dorado","9.75","60"
+
+"Tortrix 100g","1000000000360","Lacteos","2027-01-25","Dos Pinos","10.5","61"
+
+"Atun en Lata 200g","1000000000361","Bebidas","2027-02-26","La Granja","11.25","62"
+
+"Frijoles Volteados 300g","1000000000362","Panaderia","2027-03-27","Coca Cola","12.0","63"
+
+"Arroz 400g","1000000000363","Snacks","2027-04-28","Pepsi","12.75","64"
+
+"Azúcar 500g","1000000000364","Enlatados","2027-05-01","Bimbo","13.5","65"
+
+"Café 100g","1000000000365","Granos","2027-06-02","Lays","14.25","66"
+
+"Agua Pura 200g","1000000000366","Lacteos","2027-07-03","Tortrix","15.0","67"
+
+"Jugo 300g","1000000000367","Bebidas","2027-08-04","Ducal","15.75","68"
+
+"Leche Entera 400g","1000000000368","Panaderia","2027-09-05","Sardimar","16.5","69"
+
+"Queso Fresco 500g","1000000000369","Snacks","2027-10-06","Gallo Dorado","17.25","70"
+
+"Yogurt 100g","1000000000370","Enlatados","2027-11-07","Dos Pinos","18.0","71"
+
+"Coca Cola 200g","1000000000371","Granos","2027-12-08","La Granja","18.75","72"
+
+"Pepsi 300g","1000000000372","Lacteos","2027-01-09","Coca Cola","19.5","73"
+
+"Pan Blanco 400g","1000000000373","Bebidas","2027-02-10","Pepsi","20.25","74"
+
+"Pan Integral 500g","1000000000374","Panaderia","2027-03-11","Bimbo","21.0","75"
+
+"Papas Fritas 100g","1000000000375","Snacks","2027-04-12","Lays","21.75","76"
+
+"Tortrix 200g","1000000000376","Enlatados","2027-05-13","Tortrix","22.5","77"
+
+"Atun en Lata 300g","1000000000377","Granos","2027-06-14","Ducal","23.25","78"
+
+"Frijoles Volteados 400g","1000000000378","Lacteos","2027-07-15","Sardimar","24.0","79"
+
+"Arroz 500g","1000000000379","Bebidas","2027-08-16","Gallo Dorado","24.75","80"
+
+"Azúcar 100g","1000000000380","Panaderia","2027-09-17","Dos Pinos","25.5","81"
+
+"Café 200g","1000000000381","Snacks","2027-10-18","La Granja","26.25","82"
+
+"Agua Pura 300g","1000000000382","Enlatados","2027-11-19","Coca Cola","27.0","83"
+
+"Jugo 400g","1000000000383","Granos","2027-12-20","Pepsi","27.75","84"
+
+"Leche Entera 500g","1000000000384","Lacteos","2027-01-21","Bimbo","28.5","85"
+
+"Queso Fresco 100g","1000000000385","Bebidas","2027-02-22","Lays","29.25","86"
+
+"Yogurt 200g","1000000000386","Panaderia","2027-03-23","Tortrix","30.0","87"
+
+"Coca Cola 300g","1000000000387","Snacks","2027-04-24","Ducal","30.75","88"
+
+"Pepsi 400g","1000000000388","Enlatados","2027-05-25","Sardimar","31.5","89"
+
+"Pan Blanco 500g","1000000000389","Granos","2027-06-26","Gallo Dorado","32.25","90"
+
+"Pan Integral 100g","1000000000390","Lacteos","2027-07-27","Dos Pinos","33.0","91"
+
+"Papas Fritas 200g","1000000000391","Bebidas","2027-08-28","La Granja","33.75","92"
+
+"Tortrix 300g","1000000000392","Panaderia","2027-09-01","Coca Cola","34.5","93"
+
+"Atun en Lata 400g","1000000000393","Snacks","2027-10-02","Pepsi","35.25","94"
+
+"Frijoles Volteados 500g","1000000000394","Enlatados","2027-11-03","Bimbo","36.0","95"
+
+"Arroz 100g","1000000000395","Granos","2027-12-04","Lays","36.75","96"
+
+"Azúcar 200g","1000000000396","Lacteos","2027-01-05","Tortrix","37.5","97"
+
+"Café 300g","1000000000397","Bebidas","2027-02-06","Ducal","38.25","98"
+
+"Agua Pura 400g","1000000000398","Panaderia","2027-03-07","Sardimar","39.0","99"
+
+"Jugo 500g","1000000000399","Snacks","2027-04-08","Gallo Dorado","39.75","100"
+
+"Leche Entera 100g","1000000000400","Enlatados","2027-05-09","Dos Pinos","3.0","1"
+
+"Queso Fresco 200g","1000000000401","Granos","2027-06-10","La Granja","3.75","2"
+
+"Yogurt 300g","1000000000402","Lacteos","2027-07-11","Coca Cola","4.5","3"
+
+"Coca Cola 400g","1000000000403","Bebidas","2027-08-12","Pepsi","5.25","4"
+
+"Pepsi 500g","1000000000404","Panaderia","2027-09-13","Bimbo","6.0","5"
+
+"Pan Blanco 100g","1000000000405","Snacks","2027-10-14","Lays","6.75","6"
+
+"Pan Integral 200g","1000000000406","Enlatados","2027-11-15","Tortrix","7.5","7"
+
+"Papas Fritas 300g","1000000000407","Granos","2027-12-16","Ducal","8.25","8"
+
+"Tortrix 400g","1000000000408","Lacteos","2027-01-17","Sardimar","9.0","9"
+
+"Atun en Lata 500g","1000000000409","Bebidas","2027-02-18","Gallo Dorado","9.75","10"
+
+"Frijoles Volteados 100g","1000000000410","Panaderia","2027-03-19","Dos Pinos","10.5","11"
+
+"Arroz 200g","1000000000411","Snacks","2027-04-20","La Granja","11.25","12"
+
+"Azúcar 300g","1000000000412","Enlatados","2027-05-21","Coca Cola","12.0","13"
+
+"Café 400g","1000000000413","Granos","2027-06-22","Pepsi","12.75","14"
+
+"Agua Pura 500g","1000000000414","Lacteos","2027-07-23","Bimbo","13.5","15"
+
+"Jugo 100g","1000000000415","Bebidas","2027-08-24","Lays","14.25","16"
+
+"Leche Entera 200g","1000000000416","Panaderia","2027-09-25","Tortrix","15.0","17"
+
+"Queso Fresco 300g","1000000000417","Snacks","2027-10-26","Ducal","15.75","18"
+
+"Yogurt 400g","1000000000418","Enlatados","2027-11-27","Sardimar","16.5","19"
+
+"Coca Cola 500g","1000000000419","Granos","2027-12-28","Gallo Dorado","17.25","20"
+
+"Pepsi 100g","1000000000420","Lacteos","2027-01-01","Dos Pinos","18.0","21"
+
+"Pan Blanco 200g","1000000000421","Bebidas","2027-02-02","La Granja","18.75","22"
+
+"Pan Integral 300g","1000000000422","Panaderia","2027-03-03","Coca Cola","19.5","23"
+
+"Papas Fritas 400g","1000000000423","Snacks","2027-04-04","Pepsi","20.25","24"
+
+"Tortrix 500g","1000000000424","Enlatados","2027-05-05","Bimbo","21.0","25"
+
+"Atun en Lata 100g","1000000000425","Granos","2027-06-06","Lays","21.75","26"
+
+"Frijoles Volteados 200g","1000000000426","Lacteos","2027-07-07","Tortrix","22.5","27"
+
+"Arroz 300g","1000000000427","Bebidas","2027-08-08","Ducal","23.25","28"
+
+"Azúcar 400g","1000000000428","Panaderia","2027-09-09","Sardimar","24.0","29"
+
+"Café 500g","1000000000429","Snacks","2027-10-10","Gallo Dorado","24.75","30"
+
+"Agua Pura 100g","1000000000430","Enlatados","2027-11-11","Dos Pinos","25.5","31"
+
+"Jugo 200g","1000000000431","Granos","2027-12-12","La Granja","26.25","32"
+
+"Leche Entera 300g","1000000000432","Lacteos","2027-01-13","Coca Cola","27.0","33"
+
+"Queso Fresco 400g","1000000000433","Bebidas","2027-02-14","Pepsi","27.75","34"
+
+"Yogurt 500g","1000000000434","Panaderia","2027-03-15","Bimbo","28.5","35"
+
+"Coca Cola 100g","1000000000435","Snacks","2027-04-16","Lays","29.25","36"
+
+"Pepsi 200g","1000000000436","Enlatados","2027-05-17","Tortrix","30.0","37"
+
+"Pan Blanco 300g","1000000000437","Granos","2027-06-18","Ducal","30.75","38"
+
+"Pan Integral 400g","1000000000438","Lacteos","2027-07-19","Sardimar","31.5","39"
+
+"Papas Fritas 500g","1000000000439","Bebidas","2027-08-20","Gallo Dorado","32.25","40"
+
+"Tortrix 100g","1000000000440","Panaderia","2027-09-21","Dos Pinos","33.0","41"
+
+"Atun en Lata 200g","1000000000441","Snacks","2027-10-22","La Granja","33.75","42"
+
+"Frijoles Volteados 300g","1000000000442","Enlatados","2027-11-23","Coca Cola","34.5","43"
+
+"Arroz 400g","1000000000443","Granos","2027-12-24","Pepsi","35.25","44"
+
+"Azúcar 500g","1000000000444","Lacteos","2027-01-25","Bimbo","36.0","45"
+
+"Café 100g","1000000000445","Bebidas","2027-02-26","Lays","36.75","46"
+
+"Agua Pura 200g","1000000000446","Panaderia","2027-03-27","Tortrix","37.5","47"
+
+"Jugo 300g","1000000000447","Snacks","2027-04-28","Ducal","38.25","48"
+
+"Leche Entera 400g","1000000000448","Enlatados","2027-05-01","Sardimar","39.0","49"
+
+"Queso Fresco 500g","1000000000449","Granos","2027-06-02","Gallo Dorado","39.75","50"
+
+"Yogurt 100g","1000000000450","Lacteos","2027-07-03","Dos Pinos","3.0","51"
+
+"Coca Cola 200g","1000000000451","Bebidas","2027-08-04","La Granja","3.75","52"
+
+"Pepsi 300g","1000000000452","Panaderia","2027-09-05","Coca Cola","4.5","53"
+
+"Pan Blanco 400g","1000000000453","Snacks","2027-10-06","Pepsi","5.25","54"
+
+"Pan Integral 500g","1000000000454","Enlatados","2027-11-07","Bimbo","6.0","55"
+
+"Papas Fritas 100g","1000000000455","Granos","2027-12-08","Lays","6.75","56"
+
+"Tortrix 200g","1000000000456","Lacteos","2027-01-09","Tortrix","7.5","57"
+
+"Atun en Lata 300g","1000000000457","Bebidas","2027-02-10","Ducal","8.25","58"
+
+"Frijoles Volteados 400g","1000000000458","Panaderia","2027-03-11","Sardimar","9.0","59"
+
+"Arroz 500g","1000000000459","Snacks","2027-04-12","Gallo Dorado","9.75","60"
+
+"Azúcar 100g","1000000000460","Enlatados","2027-05-13","Dos Pinos","10.5","61"
+
+"Café 200g","1000000000461","Granos","2027-06-14","La Granja","11.25","62"
+
+"Agua Pura 300g","1000000000462","Lacteos","2027-07-15","Coca Cola","12.0","63"
+
+"Jugo 400g","1000000000463","Bebidas","2027-08-16","Pepsi","12.75","64"
+
+"Leche Entera 500g","1000000000464","Panaderia","2027-09-17","Bimbo","13.5","65"
+
+"Queso Fresco 100g","1000000000465","Snacks","2027-10-18","Lays","14.25","66"
+
+"Yogurt 200g","1000000000466","Enlatados","2027-11-19","Tortrix","15.0","67"
+
+"Coca Cola 300g","1000000000467","Granos","2027-12-20","Ducal","15.75","68"
+
+"Pepsi 400g","1000000000468","Lacteos","2027-01-21","Sardimar","16.5","69"
+
+"Pan Blanco 500g","1000000000469","Bebidas","2027-02-22","Gallo Dorado","17.25","70"
+
+"Pan Integral 100g","1000000000470","Panaderia","2027-03-23","Dos Pinos","18.0","71"
+
+"Papas Fritas 200g","1000000000471","Snacks","2027-04-24","La Granja","18.75","72"
+
+"Tortrix 300g","1000000000472","Enlatados","2027-05-25","Coca Cola","19.5","73"
+
+"Atun en Lata 400g","1000000000473","Granos","2027-06-26","Pepsi","20.25","74"
+
+"Frijoles Volteados 500g","1000000000474","Lacteos","2027-07-27","Bimbo","21.0","75"
+
+"Arroz 100g","1000000000475","Bebidas","2027-08-28","Lays","21.75","76"
+
+"Azúcar 200g","1000000000476","Panaderia","2027-09-01","Tortrix","22.5","77"
+
+"Café 300g","1000000000477","Snacks","2027-10-02","Ducal","23.25","78"
+
+"Agua Pura 400g","1000000000478","Enlatados","2027-11-03","Sardimar","24.0","79"
+
+"Jugo 500g","1000000000479","Granos","2027-12-04","Gallo Dorado","24.75","80"
+
+"Leche Entera 100g","1000000000480","Lacteos","2027-01-05","Dos Pinos","25.5","81"
+
+"Queso Fresco 200g","1000000000481","Bebidas","2027-02-06","La Granja","26.25","82"
+
+"Yogurt 300g","1000000000482","Panaderia","2027-03-07","Coca Cola","27.0","83"
+
+"Coca Cola 400g","1000000000483","Snacks","2027-04-08","Pepsi","27.75","84"
+
+"Pepsi 500g","1000000000484","Enlatados","2027-05-09","Bimbo","28.5","85"
+
+"Pan Blanco 100g","1000000000485","Granos","2027-06-10","Lays","29.25","86"
+
+"Pan Integral 200g","1000000000486","Lacteos","2027-07-11","Tortrix","30.0","87"
+
+"Papas Fritas 300g","1000000000487","Bebidas","2027-08-12","Ducal","30.75","88"
+
+"Tortrix 400g","1000000000488","Panaderia","2027-09-13","Sardimar","31.5","89"
+
+"Atun en Lata 500g","1000000000489","Snacks","2027-10-14","Gallo Dorado","32.25","90"
+
+"Frijoles Volteados 100g","1000000000490","Enlatados","2027-11-15","Dos Pinos","33.0","91"
+
+"Arroz 200g","1000000000491","Granos","2027-12-16","La Granja","33.75","92"
+
+"Azúcar 300g","1000000000492","Lacteos","2027-01-17","Coca Cola","34.5","93"
+
+"Café 400g","1000000000493","Bebidas","2027-02-18","Pepsi","35.25","94"
+
+"Agua Pura 500g","1000000000494","Panaderia","2027-03-19","Bimbo","36.0","95"
+
+"Jugo 100g","1000000000495","Snacks","2027-04-20","Lays","36.75","96"
+
+"Leche Entera 200g","1000000000496","Enlatados","2027-05-21","Tortrix","37.5","97"
+
+"Queso Fresco 300g","1000000000497","Granos","2027-06-22","Ducal","38.25","98"
+
+"Yogurt 400g","1000000000498","Lacteos","2027-07-23","Sardimar","39.0","99"
+
+"Coca Cola 500g","1000000000499","Bebidas","2027-08-24","Gallo Dorado","39.75","100"
+
+"Pepsi 100g","1000000000500","Panaderia","2027-09-25","Dos Pinos","3.0","1"
+
+"Pan Blanco 200g","1000000000501","Snacks","2027-10-26","La Granja","3.75","2"
+
+"Pan Integral 300g","1000000000502","Enlatados","2027-11-27","Coca Cola","4.5","3"
+
+"Papas Fritas 400g","1000000000503","Granos","2027-12-28","Pepsi","5.25","4"
+
+"Tortrix 500g","1000000000504","Lacteos","2027-01-01","Bimbo","6.0","5"
+
+"Atun en Lata 100g","1000000000505","Bebidas","2027-02-02","Lays","6.75","6"
+
+"Frijoles Volteados 200g","1000000000506","Panaderia","2027-03-03","Tortrix","7.5","7"
+
+"Arroz 300g","1000000000507","Snacks","2027-04-04","Ducal","8.25","8"
+
+"Azúcar 400g","1000000000508","Enlatados","2027-05-05","Sardimar","9.0","9"
+
+"Café 500g","1000000000509","Granos","2027-06-06","Gallo Dorado","9.75","10"
+
+"Agua Pura 100g","1000000000510","Lacteos","2027-07-07","Dos Pinos","10.5","11"
+
+"Jugo 200g","1000000000511","Bebidas","2027-08-08","La Granja","11.25","12"
+
+"Leche Entera 300g","1000000000512","Panaderia","2027-09-09","Coca Cola","12.0","13"
+
+"Queso Fresco 400g","1000000000513","Snacks","2027-10-10","Pepsi","12.75","14"
+
+"Yogurt 500g","1000000000514","Enlatados","2027-11-11","Bimbo","13.5","15"
+
+"Coca Cola 100g","1000000000515","Granos","2027-12-12","Lays","14.25","16"
+
+"Pepsi 200g","1000000000516","Lacteos","2027-01-13","Tortrix","15.0","17"
+
+"Pan Blanco 300g","1000000000517","Bebidas","2027-02-14","Ducal","15.75","18"
+
+"Pan Integral 400g","1000000000518","Panaderia","2027-03-15","Sardimar","16.5","19"
+
+"Papas Fritas 500g","1000000000519","Snacks","2027-04-16","Gallo Dorado","17.25","20"
+
+"Tortrix 100g","1000000000520","Enlatados","2027-05-17","Dos Pinos","18.0","21"
+
+"Atun en Lata 200g","1000000000521","Granos","2027-06-18","La Granja","18.75","22"
+
+"Frijoles Volteados 300g","1000000000522","Lacteos","2027-07-19","Coca Cola","19.5","23"
+
+"Arroz 400g","1000000000523","Bebidas","2027-08-20","Pepsi","20.25","24"
+
+"Azúcar 500g","1000000000524","Panaderia","2027-09-21","Bimbo","21.0","25"
+
+"Café 100g","1000000000525","Snacks","2027-10-22","Lays","21.75","26"
+
+"Agua Pura 200g","1000000000526","Enlatados","2027-11-23","Tortrix","22.5","27"
+
+"Jugo 300g","1000000000527","Granos","2027-12-24","Ducal","23.25","28"
+
+"Leche Entera 400g","1000000000528","Lacteos","2027-01-25","Sardimar","24.0","29"
+
+"Queso Fresco 500g","1000000000529","Bebidas","2027-02-26","Gallo Dorado","24.75","30"
+
+"Yogurt 100g","1000000000530","Panaderia","2027-03-27","Dos Pinos","25.5","31"
+
+"Coca Cola 200g","1000000000531","Snacks","2027-04-28","La Granja","26.25","32"
+
+"Pepsi 300g","1000000000532","Enlatados","2027-05-01","Coca Cola","27.0","33"
+
+"Pan Blanco 400g","1000000000533","Granos","2027-06-02","Pepsi","27.75","34"
+
+"Pan Integral 500g","1000000000534","Lacteos","2027-07-03","Bimbo","28.5","35"
+
+"Papas Fritas 100g","1000000000535","Bebidas","2027-08-04","Lays","29.25","36"
+
+"Tortrix 200g","1000000000536","Panaderia","2027-09-05","Tortrix","30.0","37"
+
+"Atun en Lata 300g","1000000000537","Snacks","2027-10-06","Ducal","30.75","38"
+
+"Frijoles Volteados 400g","1000000000538","Enlatados","2027-11-07","Sardimar","31.5","39"
+
+"Arroz 500g","1000000000539","Granos","2027-12-08","Gallo Dorado","32.25","40"
+
+"Azúcar 100g","1000000000540","Lacteos","2027-01-09","Dos Pinos","33.0","41"
+
+"Café 200g","1000000000541","Bebidas","2027-02-10","La Granja","33.75","42"
+
+"Agua Pura 300g","1000000000542","Panaderia","2027-03-11","Coca Cola","34.5","43"
+
+"Jugo 400g","1000000000543","Snacks","2027-04-12","Pepsi","35.25","44"
+
+"Leche Entera 500g","1000000000544","Enlatados","2027-05-13","Bimbo","36.0","45"
+
+"Queso Fresco 100g","1000000000545","Granos","2027-06-14","Lays","36.75","46"
+
+"Yogurt 200g","1000000000546","Lacteos","2027-07-15","Tortrix","37.5","47"
+
+"Coca Cola 300g","1000000000547","Bebidas","2027-08-16","Ducal","38.25","48"
+
+"Pepsi 400g","1000000000548","Panaderia","2027-09-17","Sardimar","39.0","49"
+
+"Pan Blanco 500g","1000000000549","Snacks","2027-10-18","Gallo Dorado","39.75","50"
+
+"Pan Integral 100g","1000000000550","Enlatados","2027-11-19","Dos Pinos","3.0","51"
+
+"Papas Fritas 200g","1000000000551","Granos","2027-12-20","La Granja","3.75","52"
+
+"Tortrix 300g","1000000000552","Lacteos","2027-01-21","Coca Cola","4.5","53"
+
+"Atun en Lata 400g","1000000000553","Bebidas","2027-02-22","Pepsi","5.25","54"
+
+"Frijoles Volteados 500g","1000000000554","Panaderia","2027-03-23","Bimbo","6.0","55"
+
+"Arroz 100g","1000000000555","Snacks","2027-04-24","Lays","6.75","56"
+
+"Azúcar 200g","1000000000556","Enlatados","2027-05-25","Tortrix","7.5","57"
+
+"Café 300g","1000000000557","Granos","2027-06-26","Ducal","8.25","58"
+
+"Agua Pura 400g","1000000000558","Lacteos","2027-07-27","Sardimar","9.0","59"
+
+"Jugo 500g","1000000000559","Bebidas","2027-08-28","Gallo Dorado","9.75","60"
+
+"Leche Entera 100g","1000000000560","Panaderia","2027-09-01","Dos Pinos","10.5","61"
+
+"Queso Fresco 200g","1000000000561","Snacks","2027-10-02","La Granja","11.25","62"
+
+"Yogurt 300g","1000000000562","Enlatados","2027-11-03","Coca Cola","12.0","63"
+
+"Coca Cola 400g","1000000000563","Granos","2027-12-04","Pepsi","12.75","64"
+
+"Pepsi 500g","1000000000564","Lacteos","2027-01-05","Bimbo","13.5","65"
+
+"Pan Blanco 100g","1000000000565","Bebidas","2027-02-06","Lays","14.25","66"
+
+"Pan Integral 200g","1000000000566","Panaderia","2027-03-07","Tortrix","15.0","67"
+
+"Papas Fritas 300g","1000000000567","Snacks","2027-04-08","Ducal","15.75","68"
+
+"Tortrix 400g","1000000000568","Enlatados","2027-05-09","Sardimar","16.5","69"
+
+"Atun en Lata 500g","1000000000569","Granos","2027-06-10","Gallo Dorado","17.25","70"
+
+"Frijoles Volteados 100g","1000000000570","Lacteos","2027-07-11","Dos Pinos","18.0","71"
+
+"Arroz 200g","1000000000571","Bebidas","2027-08-12","La Granja","18.75","72"
+
+"Azúcar 300g","1000000000572","Panaderia","2027-09-13","Coca Cola","19.5","73"
+
+"Café 400g","1000000000573","Snacks","2027-10-14","Pepsi","20.25","74"
+
+"Agua Pura 500g","1000000000574","Enlatados","2027-11-15","Bimbo","21.0","75"
+
+"Jugo 100g","1000000000575","Granos","2027-12-16","Lays","21.75","76"
+
+"Leche Entera 200g","1000000000576","Lacteos","2027-01-17","Tortrix","22.5","77"
+
+"Queso Fresco 300g","1000000000577","Bebidas","2027-02-18","Ducal","23.25","78"
+
+"Yogurt 400g","1000000000578","Panaderia","2027-03-19","Sardimar","24.0","79"
+
+"Coca Cola 500g","1000000000579","Snacks","2027-04-20","Gallo Dorado","24.75","80"
+
+"Pepsi 100g","1000000000580","Enlatados","2027-05-21","Dos Pinos","25.5","81"
+
+"Pan Blanco 200g","1000000000581","Granos","2027-06-22","La Granja","26.25","82"
+
+"Pan Integral 300g","1000000000582","Lacteos","2027-07-23","Coca Cola","27.0","83"
+
+"Papas Fritas 400g","1000000000583","Bebidas","2027-08-24","Pepsi","27.75","84"
+
+"Tortrix 500g","1000000000584","Panaderia","2027-09-25","Bimbo","28.5","85"
+
+"Atun en Lata 100g","1000000000585","Snacks","2027-10-26","Lays","29.25","86"
+
+"Frijoles Volteados 200g","1000000000586","Enlatados","2027-11-27","Tortrix","30.0","87"
+
+"Arroz 300g","1000000000587","Granos","2027-12-28","Ducal","30.75","88"
+
+"Azúcar 400g","1000000000588","Lacteos","2027-01-01","Sardimar","31.5","89"
+
+"Café 500g","1000000000589","Bebidas","2027-02-02","Gallo Dorado","32.25","90"
+
+"Agua Pura 100g","1000000000590","Panaderia","2027-03-03","Dos Pinos","33.0","91"
+
+"Jugo 200g","1000000000591","Snacks","2027-04-04","La Granja","33.75","92"
+
+"Leche Entera 300g","1000000000592","Enlatados","2027-05-05","Coca Cola","34.5","93"
+
+"Queso Fresco 400g","1000000000593","Granos","2027-06-06","Pepsi","35.25","94"
+
+"Yogurt 500g","1000000000594","Lacteos","2027-07-07","Bimbo","36.0","95"
+
+"Coca Cola 100g","1000000000595","Bebidas","2027-08-08","Lays","36.75","96"
+
+"Pepsi 200g","1000000000596","Panaderia","2027-09-09","Tortrix","37.5","97"
+
+"Pan Blanco 300g","1000000000597","Snacks","2027-10-10","Ducal","38.25","98"
+
+"Pan Integral 400g","1000000000598","Enlatados","2027-11-11","Sardimar","39.0","99"
+
+"Papas Fritas 500g","1000000000599","Granos","2027-12-12","Gallo Dorado","39.75","100"
+
+"Tortrix 100g","1000000000600","Lacteos","2027-01-13","Dos Pinos","3.0","1"
+
+"Atun en Lata 200g","1000000000601","Bebidas","2027-02-14","La Granja","3.75","2"
+
+"Frijoles Volteados 300g","1000000000602","Panaderia","2027-03-15","Coca Cola","4.5","3"
+
+"Arroz 400g","1000000000603","Snacks","2027-04-16","Pepsi","5.25","4"
+
+"Azúcar 500g","1000000000604","Enlatados","2027-05-17","Bimbo","6.0","5"
+
+"Café 100g","1000000000605","Granos","2027-06-18","Lays","6.75","6"
+
+"Agua Pura 200g","1000000000606","Lacteos","2027-07-19","Tortrix","7.5","7"
+
+"Jugo 300g","1000000000607","Bebidas","2027-08-20","Ducal","8.25","8"
+
+"Leche Entera 400g","1000000000608","Panaderia","2027-09-21","Sardimar","9.0","9"
+
+"Queso Fresco 500g","1000000000609","Snacks","2027-10-22","Gallo Dorado","9.75","10"
+
+"Yogurt 100g","1000000000610","Enlatados","2027-11-23","Dos Pinos","10.5","11"
+
+"Coca Cola 200g","1000000000611","Granos","2027-12-24","La Granja","11.25","12"
+
+"Pepsi 300g","1000000000612","Lacteos","2027-01-25","Coca Cola","12.0","13"
+
+"Pan Blanco 400g","1000000000613","Bebidas","2027-02-26","Pepsi","12.75","14"
+
+"Pan Integral 500g","1000000000614","Panaderia","2027-03-27","Bimbo","13.5","15"
+
+"Papas Fritas 100g","1000000000615","Snacks","2027-04-28","Lays","14.25","16"
+
+"Tortrix 200g","1000000000616","Enlatados","2027-05-01","Tortrix","15.0","17"
+
+"Atun en Lata 300g","1000000000617","Granos","2027-06-02","Ducal","15.75","18"
+
+"Frijoles Volteados 400g","1000000000618","Lacteos","2027-07-03","Sardimar","16.5","19"
+
+"Arroz 500g","1000000000619","Bebidas","2027-08-04","Gallo Dorado","17.25","20"
+
+"Azúcar 100g","1000000000620","Panaderia","2027-09-05","Dos Pinos","18.0","21"
+
+"Café 200g","1000000000621","Snacks","2027-10-06","La Granja","18.75","22"
+
+"Agua Pura 300g","1000000000622","Enlatados","2027-11-07","Coca Cola","19.5","23"
+
+"Jugo 400g","1000000000623","Granos","2027-12-08","Pepsi","20.25","24"
+
+"Leche Entera 500g","1000000000624","Lacteos","2027-01-09","Bimbo","21.0","25"
+
+"Queso Fresco 100g","1000000000625","Bebidas","2027-02-10","Lays","21.75","26"
+
+"Yogurt 200g","1000000000626","Panaderia","2027-03-11","Tortrix","22.5","27"
+
+"Coca Cola 300g","1000000000627","Snacks","2027-04-12","Ducal","23.25","28"
+
+"Pepsi 400g","1000000000628","Enlatados","2027-05-13","Sardimar","24.0","29"
+
+"Pan Blanco 500g","1000000000629","Granos","2027-06-14","Gallo Dorado","24.75","30"
+
+"Pan Integral 100g","1000000000630","Lacteos","2027-07-15","Dos Pinos","25.5","31"
+
+"Papas Fritas 200g","1000000000631","Bebidas","2027-08-16","La Granja","26.25","32"
+
+"Tortrix 300g","1000000000632","Panaderia","2027-09-17","Coca Cola","27.0","33"
+
+"Atun en Lata 400g","1000000000633","Snacks","2027-10-18","Pepsi","27.75","34"
+
+"Frijoles Volteados 500g","1000000000634","Enlatados","2027-11-19","Bimbo","28.5","35"
+
+"Arroz 100g","1000000000635","Granos","2027-12-20","Lays","29.25","36"
+
+"Azúcar 200g","1000000000636","Lacteos","2027-01-21","Tortrix","30.0","37"
+
+"Café 300g","1000000000637","Bebidas","2027-02-22","Ducal","30.75","38"
+
+"Agua Pura 400g","1000000000638","Panaderia","2027-03-23","Sardimar","31.5","39"
+
+"Jugo 500g","1000000000639","Snacks","2027-04-24","Gallo Dorado","32.25","40"
+
+"Leche Entera 100g","1000000000640","Enlatados","2027-05-25","Dos Pinos","33.0","41"
+
+"Queso Fresco 200g","1000000000641","Granos","2027-06-26","La Granja","33.75","42"
+
+"Yogurt 300g","1000000000642","Lacteos","2027-07-27","Coca Cola","34.5","43"
+
+"Coca Cola 400g","1000000000643","Bebidas","2027-08-28","Pepsi","35.25","44"
+
+"Pepsi 500g","1000000000644","Panaderia","2027-09-01","Bimbo","36.0","45"
+
+"Pan Blanco 100g","1000000000645","Snacks","2027-10-02","Lays","36.75","46"
+
+"Pan Integral 200g","1000000000646","Enlatados","2027-11-03","Tortrix","37.5","47"
+
+"Papas Fritas 300g","1000000000647","Granos","2027-12-04","Ducal","38.25","48"
+
+"Tortrix 400g","1000000000648","Lacteos","2027-01-05","Sardimar","39.0","49"
+
+"Atun en Lata 500g","1000000000649","Bebidas","2027-02-06","Gallo Dorado","39.75","50"
+
+"Frijoles Volteados 100g","1000000000650","Panaderia","2027-03-07","Dos Pinos","3.0","51"
+
+"Arroz 200g","1000000000651","Snacks","2027-04-08","La Granja","3.75","52"
+
+"Azúcar 300g","1000000000652","Enlatados","2027-05-09","Coca Cola","4.5","53"
+
+"Café 400g","1000000000653","Granos","2027-06-10","Pepsi","5.25","54"
+
+"Agua Pura 500g","1000000000654","Lacteos","2027-07-11","Bimbo","6.0","55"
+
+"Jugo 100g","1000000000655","Bebidas","2027-08-12","Lays","6.75","56"
+
+"Leche Entera 200g","1000000000656","Panaderia","2027-09-13","Tortrix","7.5","57"
+
+"Queso Fresco 300g","1000000000657","Snacks","2027-10-14","Ducal","8.25","58"
+
+"Yogurt 400g","1000000000658","Enlatados","2027-11-15","Sardimar","9.0","59"
+
+"Coca Cola 500g","1000000000659","Granos","2027-12-16","Gallo Dorado","9.75","60"
+
+"Pepsi 100g","1000000000660","Lacteos","2027-01-17","Dos Pinos","10.5","61"
+
+"Pan Blanco 200g","1000000000661","Bebidas","2027-02-18","La Granja","11.25","62"
+
+"Pan Integral 300g","1000000000662","Panaderia","2027-03-19","Coca Cola","12.0","63"
+
+"Papas Fritas 400g","1000000000663","Snacks","2027-04-20","Pepsi","12.75","64"
+
+"Tortrix 500g","1000000000664","Enlatados","2027-05-21","Bimbo","13.5","65"
+
+"Atun en Lata 100g","1000000000665","Granos","2027-06-22","Lays","14.25","66"
+
+"Frijoles Volteados 200g","1000000000666","Lacteos","2027-07-23","Tortrix","15.0","67"
+
+"Arroz 300g","1000000000667","Bebidas","2027-08-24","Ducal","15.75","68"
+
+"Azúcar 400g","1000000000668","Panaderia","2027-09-25","Sardimar","16.5","69"
+
+"Café 500g","1000000000669","Snacks","2027-10-26","Gallo Dorado","17.25","70"
+
+"Agua Pura 100g","1000000000670","Enlatados","2027-11-27","Dos Pinos","18.0","71"
+
+"Jugo 200g","1000000000671","Granos","2027-12-28","La Granja","18.75","72"
+
+"Leche Entera 300g","1000000000672","Lacteos","2027-01-01","Coca Cola","19.5","73"
+
+"Queso Fresco 400g","1000000000673","Bebidas","2027-02-02","Pepsi","20.25","74"
+
+"Yogurt 500g","1000000000674","Panaderia","2027-03-03","Bimbo","21.0","75"
+
+"Coca Cola 100g","1000000000675","Snacks","2027-04-04","Lays","21.75","76"
+
+"Pepsi 200g","1000000000676","Enlatados","2027-05-05","Tortrix","22.5","77"
+
+"Pan Blanco 300g","1000000000677","Granos","2027-06-06","Ducal","23.25","78"
+
+"Pan Integral 400g","1000000000678","Lacteos","2027-07-07","Sardimar","24.0","79"
+
+"Papas Fritas 500g","1000000000679","Bebidas","2027-08-08","Gallo Dorado","24.75","80"
+
+"Tortrix 100g","1000000000680","Panaderia","2027-09-09","Dos Pinos","25.5","81"
+
+"Atun en Lata 200g","1000000000681","Snacks","2027-10-10","La Granja","26.25","82"
+
+"Frijoles Volteados 300g","1000000000682","Enlatados","2027-11-11","Coca Cola","27.0","83"
+
+"Arroz 400g","1000000000683","Granos","2027-12-12","Pepsi","27.75","84"
+
+"Azúcar 500g","1000000000684","Lacteos","2027-01-13","Bimbo","28.5","85"
+
+"Café 100g","1000000000685","Bebidas","2027-02-14","Lays","29.25","86"
+
+"Agua Pura 200g","1000000000686","Panaderia","2027-03-15","Tortrix","30.0","87"
+
+"Jugo 300g","1000000000687","Snacks","2027-04-16","Ducal","30.75","88"
+
+"Leche Entera 400g","1000000000688","Enlatados","2027-05-17","Sardimar","31.5","89"
+
+"Queso Fresco 500g","1000000000689","Granos","2027-06-18","Gallo Dorado","32.25","90"
+
+"Yogurt 100g","1000000000690","Lacteos","2027-07-19","Dos Pinos","33.0","91"
+
+"Coca Cola 200g","1000000000691","Bebidas","2027-08-20","La Granja","33.75","92"
+
+"Pepsi 300g","1000000000692","Panaderia","2027-09-21","Coca Cola","34.5","93"
+
+"Pan Blanco 400g","1000000000693","Snacks","2027-10-22","Pepsi","35.25","94"
+
+"Pan Integral 500g","1000000000694","Enlatados","2027-11-23","Bimbo","36.0","95"
+
+"Papas Fritas 100g","1000000000695","Granos","2027-12-24","Lays","36.75","96"
+
+"Tortrix 200g","1000000000696","Lacteos","2027-01-25","Tortrix","37.5","97"
+
+"Atun en Lata 300g","1000000000697","Bebidas","2027-02-26","Ducal","38.25","98"
+
+"Frijoles Volteados 400g","1000000000698","Panaderia","2027-03-27","Sardimar","39.0","99"
+
+"Arroz 500g","1000000000699","Snacks","2027-04-28","Gallo Dorado","39.75","100"
+
+"Azúcar 100g","1000000000700","Enlatados","2027-05-01","Dos Pinos","3.0","1"
+
+"Café 200g","1000000000701","Granos","2027-06-02","La Granja","3.75","2"
+
+"Agua Pura 300g","1000000000702","Lacteos","2027-07-03","Coca Cola","4.5","3"
+
+"Jugo 400g","1000000000703","Bebidas","2027-08-04","Pepsi","5.25","4"
+
+"Leche Entera 500g","1000000000704","Panaderia","2027-09-05","Bimbo","6.0","5"
+
+"Queso Fresco 100g","1000000000705","Snacks","2027-10-06","Lays","6.75","6"
+
+"Yogurt 200g","1000000000706","Enlatados","2027-11-07","Tortrix","7.5","7"
+
+"Coca Cola 300g","1000000000707","Granos","2027-12-08","Ducal","8.25","8"
+
+"Pepsi 400g","1000000000708","Lacteos","2027-01-09","Sardimar","9.0","9"
+
+"Pan Blanco 500g","1000000000709","Bebidas","2027-02-10","Gallo Dorado","9.75","10"
+
+"Pan Integral 100g","1000000000710","Panaderia","2027-03-11","Dos Pinos","10.5","11"
+
+"Papas Fritas 200g","1000000000711","Snacks","2027-04-12","La Granja","11.25","12"
+
+"Tortrix 300g","1000000000712","Enlatados","2027-05-13","Coca Cola","12.0","13"
+
+"Atun en Lata 400g","1000000000713","Granos","2027-06-14","Pepsi","12.75","14"
+
+"Frijoles Volteados 500g","1000000000714","Lacteos","2027-07-15","Bimbo","13.5","15"
+
+"Arroz 100g","1000000000715","Bebidas","2027-08-16","Lays","14.25","16"
+
+"Azúcar 200g","1000000000716","Panaderia","2027-09-17","Tortrix","15.0","17"
+
+"Café 300g","1000000000717","Snacks","2027-10-18","Ducal","15.75","18"
+
+"Agua Pura 400g","1000000000718","Enlatados","2027-11-19","Sardimar","16.5","19"
+
+"Jugo 500g","1000000000719","Granos","2027-12-20","Gallo Dorado","17.25","20"
+
+"Leche Entera 100g","1000000000720","Lacteos","2027-01-21","Dos Pinos","18.0","21"
+
+"Queso Fresco 200g","1000000000721","Bebidas","2027-02-22","La Granja","18.75","22"
+
+"Yogurt 300g","1000000000722","Panaderia","2027-03-23","Coca Cola","19.5","23"
+
+"Coca Cola 400g","1000000000723","Snacks","2027-04-24","Pepsi","20.25","24"
+
+"Pepsi 500g","1000000000724","Enlatados","2027-05-25","Bimbo","21.0","25"
+
+"Pan Blanco 100g","1000000000725","Granos","2027-06-26","Lays","21.75","26"
+
+"Pan Integral 200g","1000000000726","Lacteos","2027-07-27","Tortrix","22.5","27"
+
+"Papas Fritas 300g","1000000000727","Bebidas","2027-08-28","Ducal","23.25","28"
+
+"Tortrix 400g","1000000000728","Panaderia","2027-09-01","Sardimar","24.0","29"
+
+"Atun en Lata 500g","1000000000729","Snacks","2027-10-02","Gallo Dorado","24.75","30"
+
+"Frijoles Volteados 100g","1000000000730","Enlatados","2027-11-03","Dos Pinos","25.5","31"
+
+"Arroz 200g","1000000000731","Granos","2027-12-04","La Granja","26.25","32"
+
+"Azúcar 300g","1000000000732","Lacteos","2027-01-05","Coca Cola","27.0","33"
+
+"Café 400g","1000000000733","Bebidas","2027-02-06","Pepsi","27.75","34"
+
+"Agua Pura 500g","1000000000734","Panaderia","2027-03-07","Bimbo","28.5","35"
+
+"Jugo 100g","1000000000735","Snacks","2027-04-08","Lays","29.25","36"
+
+"Leche Entera 200g","1000000000736","Enlatados","2027-05-09","Tortrix","30.0","37"
+
+"Queso Fresco 300g","1000000000737","Granos","2027-06-10","Ducal","30.75","38"
+
+"Yogurt 400g","1000000000738","Lacteos","2027-07-11","Sardimar","31.5","39"
+
+"Coca Cola 500g","1000000000739","Bebidas","2027-08-12","Gallo Dorado","32.25","40"
+
+"Pepsi 100g","1000000000740","Panaderia","2027-09-13","Dos Pinos","33.0","41"
+
+"Pan Blanco 200g","1000000000741","Snacks","2027-10-14","La Granja","33.75","42"
+
+"Pan Integral 300g","1000000000742","Enlatados","2027-11-15","Coca Cola","34.5","43"
+
+"Papas Fritas 400g","1000000000743","Granos","2027-12-16","Pepsi","35.25","44"
+
+"Tortrix 500g","1000000000744","Lacteos","2027-01-17","Bimbo","36.0","45"
+
+"Atun en Lata 100g","1000000000745","Bebidas","2027-02-18","Lays","36.75","46"
+
+"Frijoles Volteados 200g","1000000000746","Panaderia","2027-03-19","Tortrix","37.5","47"
+
+"Arroz 300g","1000000000747","Snacks","2027-04-20","Ducal","38.25","48"
+
+"Azúcar 400g","1000000000748","Enlatados","2027-05-21","Sardimar","39.0","49"
+
+"Café 500g","1000000000749","Granos","2027-06-22","Gallo Dorado","39.75","50"
+
+"Agua Pura 100g","1000000000750","Lacteos","2027-07-23","Dos Pinos","3.0","51"
+
+"Jugo 200g","1000000000751","Bebidas","2027-08-24","La Granja","3.75","52"
+
+"Leche Entera 300g","1000000000752","Panaderia","2027-09-25","Coca Cola","4.5","53"
+
+"Queso Fresco 400g","1000000000753","Snacks","2027-10-26","Pepsi","5.25","54"
+
+"Yogurt 500g","1000000000754","Enlatados","2027-11-27","Bimbo","6.0","55"
+
+"Coca Cola 100g","1000000000755","Granos","2027-12-28","Lays","6.75","56"
+
+"Pepsi 200g","1000000000756","Lacteos","2027-01-01","Tortrix","7.5","57"
+
+"Pan Blanco 300g","1000000000757","Bebidas","2027-02-02","Ducal","8.25","58"
+
+"Pan Integral 400g","1000000000758","Panaderia","2027-03-03","Sardimar","9.0","59"
+
+"Papas Fritas 500g","1000000000759","Snacks","2027-04-04","Gallo Dorado","9.75","60"
+
+"Tortrix 100g","1000000000760","Enlatados","2027-05-05","Dos Pinos","10.5","61"
+
+"Atun en Lata 200g","1000000000761","Granos","2027-06-06","La Granja","11.25","62"
+
+"Frijoles Volteados 300g","1000000000762","Lacteos","2027-07-07","Coca Cola","12.0","63"
+
+"Arroz 400g","1000000000763","Bebidas","2027-08-08","Pepsi","12.75","64"
+
+"Azúcar 500g","1000000000764","Panaderia","2027-09-09","Bimbo","13.5","65"
+
+"Café 100g","1000000000765","Snacks","2027-10-10","Lays","14.25","66"
+
+"Agua Pura 200g","1000000000766","Enlatados","2027-11-11","Tortrix","15.0","67"
+
+"Jugo 300g","1000000000767","Granos","2027-12-12","Ducal","15.75","68"
+
+"Leche Entera 400g","1000000000768","Lacteos","2027-01-13","Sardimar","16.5","69"
+
+"Queso Fresco 500g","1000000000769","Bebidas","2027-02-14","Gallo Dorado","17.25","70"
+
+"Yogurt 100g","1000000000770","Panaderia","2027-03-15","Dos Pinos","18.0","71"
+
+"Coca Cola 200g","1000000000771","Snacks","2027-04-16","La Granja","18.75","72"
+
+"Pepsi 300g","1000000000772","Enlatados","2027-05-17","Coca Cola","19.5","73"
+
+"Pan Blanco 400g","1000000000773","Granos","2027-06-18","Pepsi","20.25","74"
+
+"Pan Integral 500g","1000000000774","Lacteos","2027-07-19","Bimbo","21.0","75"
+
+"Papas Fritas 100g","1000000000775","Bebidas","2027-08-20","Lays","21.75","76"
+
+"Tortrix 200g","1000000000776","Panaderia","2027-09-21","Tortrix","22.5","77"
+
+"Atun en Lata 300g","1000000000777","Snacks","2027-10-22","Ducal","23.25","78"
+
+"Frijoles Volteados 400g","1000000000778","Enlatados","2027-11-23","Sardimar","24.0","79"
+
+"Arroz 500g","1000000000779","Granos","2027-12-24","Gallo Dorado","24.75","80"
+
+"Azúcar 100g","1000000000780","Lacteos","2027-01-25","Dos Pinos","25.5","81"
+
+"Café 200g","1000000000781","Bebidas","2027-02-26","La Granja","26.25","82"
+
+"Agua Pura 300g","1000000000782","Panaderia","2027-03-27","Coca Cola","27.0","83"
+
+"Jugo 400g","1000000000783","Snacks","2027-04-28","Pepsi","27.75","84"
+
+"Leche Entera 500g","1000000000784","Enlatados","2027-05-01","Bimbo","28.5","85"
+
+"Queso Fresco 100g","1000000000785","Granos","2027-06-02","Lays","29.25","86"
+
+"Yogurt 200g","1000000000786","Lacteos","2027-07-03","Tortrix","30.0","87"
+
+"Coca Cola 300g","1000000000787","Bebidas","2027-08-04","Ducal","30.75","88"
+
+"Pepsi 400g","1000000000788","Panaderia","2027-09-05","Sardimar","31.5","89"
+
+"Pan Blanco 500g","1000000000789","Snacks","2027-10-06","Gallo Dorado","32.25","90"
+
+"Pan Integral 100g","1000000000790","Enlatados","2027-11-07","Dos Pinos","33.0","91"
+
+"Papas Fritas 200g","1000000000791","Granos","2027-12-08","La Granja","33.75","92"
+
+"Tortrix 300g","1000000000792","Lacteos","2027-01-09","Coca Cola","34.5","93"
+
+"Atun en Lata 400g","1000000000793","Bebidas","2027-02-10","Pepsi","35.25","94"
+
+"Frijoles Volteados 500g","1000000000794","Panaderia","2027-03-11","Bimbo","36.0","95"
+
+"Arroz 100g","1000000000795","Snacks","2027-04-12","Lays","36.75","96"
+
+"Azúcar 200g","1000000000796","Enlatados","2027-05-13","Tortrix","37.5","97"
+
+"Café 300g","1000000000797","Granos","2027-06-14","Ducal","38.25","98"
+
+"Agua Pura 400g","1000000000798","Lacteos","2027-07-15","Sardimar","39.0","99"
+
+"Jugo 500g","1000000000799","Bebidas","2027-08-16","Gallo Dorado","39.75","100"
+
+"Leche Entera 100g","1000000000800","Panaderia","2027-09-17","Dos Pinos","3.0","1"
+
+"Queso Fresco 200g","1000000000801","Snacks","2027-10-18","La Granja","3.75","2"
+
+"Yogurt 300g","1000000000802","Enlatados","2027-11-19","Coca Cola","4.5","3"
+
+"Coca Cola 400g","1000000000803","Granos","2027-12-20","Pepsi","5.25","4"
+
+"Pepsi 500g","1000000000804","Lacteos","2027-01-21","Bimbo","6.0","5"
+
+"Pan Blanco 100g","1000000000805","Bebidas","2027-02-22","Lays","6.75","6"
+
+"Pan Integral 200g","1000000000806","Panaderia","2027-03-23","Tortrix","7.5","7"
+
+"Papas Fritas 300g","1000000000807","Snacks","2027-04-24","Ducal","8.25","8"
+
+"Tortrix 400g","1000000000808","Enlatados","2027-05-25","Sardimar","9.0","9"
+
+"Atun en Lata 500g","1000000000809","Granos","2027-06-26","Gallo Dorado","9.75","10"
+
+"Frijoles Volteados 100g","1000000000810","Lacteos","2027-07-27","Dos Pinos","10.5","11"
+
+"Arroz 200g","1000000000811","Bebidas","2027-08-28","La Granja","11.25","12"
+
+"Azúcar 300g","1000000000812","Panaderia","2027-09-01","Coca Cola","12.0","13"
+
+"Café 400g","1000000000813","Snacks","2027-10-02","Pepsi","12.75","14"
+
+"Agua Pura 500g","1000000000814","Enlatados","2027-11-03","Bimbo","13.5","15"
+
+"Jugo 100g","1000000000815","Granos","2027-12-04","Lays","14.25","16"
+
+"Leche Entera 200g","1000000000816","Lacteos","2027-01-05","Tortrix","15.0","17"
+
+"Queso Fresco 300g","1000000000817","Bebidas","2027-02-06","Ducal","15.75","18"
+
+"Yogurt 400g","1000000000818","Panaderia","2027-03-07","Sardimar","16.5","19"
+
+"Coca Cola 500g","1000000000819","Snacks","2027-04-08","Gallo Dorado","17.25","20"
+
+"Pepsi 100g","1000000000820","Enlatados","2027-05-09","Dos Pinos","18.0","21"
+
+"Pan Blanco 200g","1000000000821","Granos","2027-06-10","La Granja","18.75","22"
+
+"Pan Integral 300g","1000000000822","Lacteos","2027-07-11","Coca Cola","19.5","23"
+
+"Papas Fritas 400g","1000000000823","Bebidas","2027-08-12","Pepsi","20.25","24"
+
+"Tortrix 500g","1000000000824","Panaderia","2027-09-13","Bimbo","21.0","25"
+
+"Atun en Lata 100g","1000000000825","Snacks","2027-10-14","Lays","21.75","26"
+
+"Frijoles Volteados 200g","1000000000826","Enlatados","2027-11-15","Tortrix","22.5","27"
+
+"Arroz 300g","1000000000827","Granos","2027-12-16","Ducal","23.25","28"
+
+"Azúcar 400g","1000000000828","Lacteos","2027-01-17","Sardimar","24.0","29"
+
+"Café 500g","1000000000829","Bebidas","2027-02-18","Gallo Dorado","24.75","30"
+
+"Agua Pura 100g","1000000000830","Panaderia","2027-03-19","Dos Pinos","25.5","31"
+
+"Jugo 200g","1000000000831","Snacks","2027-04-20","La Granja","26.25","32"
+
+"Leche Entera 300g","1000000000832","Enlatados","2027-05-21","Coca Cola","27.0","33"
+
+"Queso Fresco 400g","1000000000833","Granos","2027-06-22","Pepsi","27.75","34"
+
+"Yogurt 500g","1000000000834","Lacteos","2027-07-23","Bimbo","28.5","35"
+
+"Coca Cola 100g","1000000000835","Bebidas","2027-08-24","Lays","29.25","36"
+
+"Pepsi 200g","1000000000836","Panaderia","2027-09-25","Tortrix","30.0","37"
+
+"Pan Blanco 300g","1000000000837","Snacks","2027-10-26","Ducal","30.75","38"
+
+"Pan Integral 400g","1000000000838","Enlatados","2027-11-27","Sardimar","31.5","39"
+
+"Papas Fritas 500g","1000000000839","Granos","2027-12-28","Gallo Dorado","32.25","40"
+
+"Tortrix 100g","1000000000840","Lacteos","2027-01-01","Dos Pinos","33.0","41"
+
+"Atun en Lata 200g","1000000000841","Bebidas","2027-02-02","La Granja","33.75","42"
+
+"Frijoles Volteados 300g","1000000000842","Panaderia","2027-03-03","Coca Cola","34.5","43"
+
+"Arroz 400g","1000000000843","Snacks","2027-04-04","Pepsi","35.25","44"
+
+"Azúcar 500g","1000000000844","Enlatados","2027-05-05","Bimbo","36.0","45"
+
+"Café 100g","1000000000845","Granos","2027-06-06","Lays","36.75","46"
+
+"Agua Pura 200g","1000000000846","Lacteos","2027-07-07","Tortrix","37.5","47"
+
+"Jugo 300g","1000000000847","Bebidas","2027-08-08","Ducal","38.25","48"
+
+"Leche Entera 400g","1000000000848","Panaderia","2027-09-09","Sardimar","39.0","49"
+
+"Queso Fresco 500g","1000000000849","Snacks","2027-10-10","Gallo Dorado","39.75","50"
+
+"Yogurt 100g","1000000000850","Enlatados","2027-11-11","Dos Pinos","3.0","51"
+
+"Coca Cola 200g","1000000000851","Granos","2027-12-12","La Granja","3.75","52"
+
+"Pepsi 300g","1000000000852","Lacteos","2027-01-13","Coca Cola","4.5","53"
+
+"Pan Blanco 400g","1000000000853","Bebidas","2027-02-14","Pepsi","5.25","54"
+
+"Pan Integral 500g","1000000000854","Panaderia","2027-03-15","Bimbo","6.0","55"
+
+"Papas Fritas 100g","1000000000855","Snacks","2027-04-16","Lays","6.75","56"
+
+"Tortrix 200g","1000000000856","Enlatados","2027-05-17","Tortrix","7.5","57"
+
+"Atun en Lata 300g","1000000000857","Granos","2027-06-18","Ducal","8.25","58"
+
+"Frijoles Volteados 400g","1000000000858","Lacteos","2027-07-19","Sardimar","9.0","59"
+
+"Arroz 500g","1000000000859","Bebidas","2027-08-20","Gallo Dorado","9.75","60"
+
+"Azúcar 100g","1000000000860","Panaderia","2027-09-21","Dos Pinos","10.5","61"
+
+"Café 200g","1000000000861","Snacks","2027-10-22","La Granja","11.25","62"
+
+"Agua Pura 300g","1000000000862","Enlatados","2027-11-23","Coca Cola","12.0","63"
+
+"Jugo 400g","1000000000863","Granos","2027-12-24","Pepsi","12.75","64"
+
+"Leche Entera 500g","1000000000864","Lacteos","2027-01-25","Bimbo","13.5","65"
+
+"Queso Fresco 100g","1000000000865","Bebidas","2027-02-26","Lays","14.25","66"
+
+"Yogurt 200g","1000000000866","Panaderia","2027-03-27","Tortrix","15.0","67"
+
+"Coca Cola 300g","1000000000867","Snacks","2027-04-28","Ducal","15.75","68"
+
+"Pepsi 400g","1000000000868","Enlatados","2027-05-01","Sardimar","16.5","69"
+
+"Pan Blanco 500g","1000000000869","Granos","2027-06-02","Gallo Dorado","17.25","70"
+
+"Pan Integral 100g","1000000000870","Lacteos","2027-07-03","Dos Pinos","18.0","71"
+
+"Papas Fritas 200g","1000000000871","Bebidas","2027-08-04","La Granja","18.75","72"
+
+"Tortrix 300g","1000000000872","Panaderia","2027-09-05","Coca Cola","19.5","73"
+
+"Atun en Lata 400g","1000000000873","Snacks","2027-10-06","Pepsi","20.25","74"
+
+"Frijoles Volteados 500g","1000000000874","Enlatados","2027-11-07","Bimbo","21.0","75"
+
+"Arroz 100g","1000000000875","Granos","2027-12-08","Lays","21.75","76"
+
+"Azúcar 200g","1000000000876","Lacteos","2027-01-09","Tortrix","22.5","77"
+
+"Café 300g","1000000000877","Bebidas","2027-02-10","Ducal","23.25","78"
+
+"Agua Pura 400g","1000000000878","Panaderia","2027-03-11","Sardimar","24.0","79"
+
+"Jugo 500g","1000000000879","Snacks","2027-04-12","Gallo Dorado","24.75","80"
+
+"Leche Entera 100g","1000000000880","Enlatados","2027-05-13","Dos Pinos","25.5","81"
+
+"Queso Fresco 200g","1000000000881","Granos","2027-06-14","La Granja","26.25","82"
+
+"Yogurt 300g","1000000000882","Lacteos","2027-07-15","Coca Cola","27.0","83"
+
+"Coca Cola 400g","1000000000883","Bebidas","2027-08-16","Pepsi","27.75","84"
+
+"Pepsi 500g","1000000000884","Panaderia","2027-09-17","Bimbo","28.5","85"
+
+"Pan Blanco 100g","1000000000885","Snacks","2027-10-18","Lays","29.25","86"
+
+"Pan Integral 200g","1000000000886","Enlatados","2027-11-19","Tortrix","30.0","87"
+
+"Papas Fritas 300g","1000000000887","Granos","2027-12-20","Ducal","30.75","88"
+
+"Tortrix 400g","1000000000888","Lacteos","2027-01-21","Sardimar","31.5","89"
+
+"Atun en Lata 500g","1000000000889","Bebidas","2027-02-22","Gallo Dorado","32.25","90"
+
+"Frijoles Volteados 100g","1000000000890","Panaderia","2027-03-23","Dos Pinos","33.0","91"
+
+"Arroz 200g","1000000000891","Snacks","2027-04-24","La Granja","33.75","92"
+
+"Azúcar 300g","1000000000892","Enlatados","2027-05-25","Coca Cola","34.5","93"
+
+"Café 400g","1000000000893","Granos","2027-06-26","Pepsi","35.25","94"
+
+"Agua Pura 500g","1000000000894","Lacteos","2027-07-27","Bimbo","36.0","95"
+
+"Jugo 100g","1000000000895","Bebidas","2027-08-28","Lays","36.75","96"
+
+"Leche Entera 200g","1000000000896","Panaderia","2027-09-01","Tortrix","37.5","97"
+
+"Queso Fresco 300g","1000000000897","Snacks","2027-10-02","Ducal","38.25","98"
+
+"Yogurt 400g","1000000000898","Enlatados","2027-11-03","Sardimar","39.0","99"
+
+"Coca Cola 500g","1000000000899","Granos","2027-12-04","Gallo Dorado","39.75","100"
+
+"Pepsi 100g","1000000000900","Lacteos","2027-01-05","Dos Pinos","3.0","1"
+
+"Pan Blanco 200g","1000000000901","Bebidas","2027-02-06","La Granja","3.75","2"
+
+"Pan Integral 300g","1000000000902","Panaderia","2027-03-07","Coca Cola","4.5","3"
+
+"Papas Fritas 400g","1000000000903","Snacks","2027-04-08","Pepsi","5.25","4"
+
+"Tortrix 500g","1000000000904","Enlatados","2027-05-09","Bimbo","6.0","5"
+
+"Atun en Lata 100g","1000000000905","Granos","2027-06-10","Lays","6.75","6"
+
+"Frijoles Volteados 200g","1000000000906","Lacteos","2027-07-11","Tortrix","7.5","7"
+
+"Arroz 300g","1000000000907","Bebidas","2027-08-12","Ducal","8.25","8"
+
+"Azúcar 400g","1000000000908","Panaderia","2027-09-13","Sardimar","9.0","9"
+
+"Café 500g","1000000000909","Snacks","2027-10-14","Gallo Dorado","9.75","10"
+
+"Agua Pura 100g","1000000000910","Enlatados","2027-11-15","Dos Pinos","10.5","11"
+
+"Jugo 200g","1000000000911","Granos","2027-12-16","La Granja","11.25","12"
+
+"Leche Entera 300g","1000000000912","Lacteos","2027-01-17","Coca Cola","12.0","13"
+
+"Queso Fresco 400g","1000000000913","Bebidas","2027-02-18","Pepsi","12.75","14"
+
+"Yogurt 500g","1000000000914","Panaderia","2027-03-19","Bimbo","13.5","15"
+
+"Coca Cola 100g","1000000000915","Snacks","2027-04-20","Lays","14.25","16"
+
+"Pepsi 200g","1000000000916","Enlatados","2027-05-21","Tortrix","15.0","17"
+
+"Pan Blanco 300g","1000000000917","Granos","2027-06-22","Ducal","15.75","18"
+
+"Pan Integral 400g","1000000000918","Lacteos","2027-07-23","Sardimar","16.5","19"
+
+"Papas Fritas 500g","1000000000919","Bebidas","2027-08-24","Gallo Dorado","17.25","20"
+
+"Tortrix 100g","1000000000920","Panaderia","2027-09-25","Dos Pinos","18.0","21"
+
+"Atun en Lata 200g","1000000000921","Snacks","2027-10-26","La Granja","18.75","22"
+
+"Frijoles Volteados 300g","1000000000922","Enlatados","2027-11-27","Coca Cola","19.5","23"
+
+"Arroz 400g","1000000000923","Granos","2027-12-28","Pepsi","20.25","24"
+
+"Azúcar 500g","1000000000924","Lacteos","2027-01-01","Bimbo","21.0","25"
+
+"Café 100g","1000000000925","Bebidas","2027-02-02","Lays","21.75","26"
+
+"Agua Pura 200g","1000000000926","Panaderia","2027-03-03","Tortrix","22.5","27"
+
+"Jugo 300g","1000000000927","Snacks","2027-04-04","Ducal","23.25","28"
+
+"Leche Entera 400g","1000000000928","Enlatados","2027-05-05","Sardimar","24.0","29"
+
+"Queso Fresco 500g","1000000000929","Granos","2027-06-06","Gallo Dorado","24.75","30"
+
+"Yogurt 100g","1000000000930","Lacteos","2027-07-07","Dos Pinos","25.5","31"
+
+"Coca Cola 200g","1000000000931","Bebidas","2027-08-08","La Granja","26.25","32"
+
+"Pepsi 300g","1000000000932","Panaderia","2027-09-09","Coca Cola","27.0","33"
+
+"Pan Blanco 400g","1000000000933","Snacks","2027-10-10","Pepsi","27.75","34"
+
+"Pan Integral 500g","1000000000934","Enlatados","2027-11-11","Bimbo","28.5","35"
+
+"Papas Fritas 100g","1000000000935","Granos","2027-12-12","Lays","29.25","36"
+
+"Tortrix 200g","1000000000936","Lacteos","2027-01-13","Tortrix","30.0","37"
+
+"Atun en Lata 300g","1000000000937","Bebidas","2027-02-14","Ducal","30.75","38"
+
+"Frijoles Volteados 400g","1000000000938","Panaderia","2027-03-15","Sardimar","31.5","39"
+
+"Arroz 500g","1000000000939","Snacks","2027-04-16","Gallo Dorado","32.25","40"
+
+"Azúcar 100g","1000000000940","Enlatados","2027-05-17","Dos Pinos","33.0","41"
+
+"Café 200g","1000000000941","Granos","2027-06-18","La Granja","33.75","42"
+
+"Agua Pura 300g","1000000000942","Lacteos","2027-07-19","Coca Cola","34.5","43"
+
+"Jugo 400g","1000000000943","Bebidas","2027-08-20","Pepsi","35.25","44"
+
+"Leche Entera 500g","1000000000944","Panaderia","2027-09-21","Bimbo","36.0","45"
+
+"Queso Fresco 100g","1000000000945","Snacks","2027-10-22","Lays","36.75","46"
+
+"Yogurt 200g","1000000000946","Enlatados","2027-11-23","Tortrix","37.5","47"
+
+"Coca Cola 300g","1000000000947","Granos","2027-12-24","Ducal","38.25","48"
+
+"Pepsi 400g","1000000000948","Lacteos","2027-01-25","Sardimar","39.0","49"
+
+"Pan Blanco 500g","1000000000949","Bebidas","2027-02-26","Gallo Dorado","39.75","50"
+
+"Pan Integral 100g","1000000000950","Panaderia","2027-03-27","Dos Pinos","3.0","51"
+
+"Papas Fritas 200g","1000000000951","Snacks","2027-04-28","La Granja","3.75","52"
+
+"Tortrix 300g","1000000000952","Enlatados","2027-05-01","Coca Cola","4.5","53"
+
+"Atun en Lata 400g","1000000000953","Granos","2027-06-02","Pepsi","5.25","54"
+
+"Frijoles Volteados 500g","1000000000954","Lacteos","2027-07-03","Bimbo","6.0","55"
+
+"Arroz 100g","1000000000955","Bebidas","2027-08-04","Lays","6.75","56"
+
+"Azúcar 200g","1000000000956","Panaderia","2027-09-05","Tortrix","7.5","57"
+
+"Café 300g","1000000000957","Snacks","2027-10-06","Ducal","8.25","58"
+
+"Agua Pura 400g","1000000000958","Enlatados","2027-11-07","Sardimar","9.0","59"
+
+"Jugo 500g","1000000000959","Granos","2027-12-08","Gallo Dorado","9.75","60"
+
+"Leche Entera 100g","1000000000960","Lacteos","2027-01-09","Dos Pinos","10.5","61"
+
+"Queso Fresco 200g","1000000000961","Bebidas","2027-02-10","La Granja","11.25","62"
+
+"Yogurt 300g","1000000000962","Panaderia","2027-03-11","Coca Cola","12.0","63"
+
+"Coca Cola 400g","1000000000963","Snacks","2027-04-12","Pepsi","12.75","64"
+
+"Pepsi 500g","1000000000964","Enlatados","2027-05-13","Bimbo","13.5","65"
+
+"Pan Blanco 100g","1000000000965","Granos","2027-06-14","Lays","14.25","66"
+
+"Pan Integral 200g","1000000000966","Lacteos","2027-07-15","Tortrix","15.0","67"
+
+"Papas Fritas 300g","1000000000967","Bebidas","2027-08-16","Ducal","15.75","68"
+
+"Tortrix 400g","1000000000968","Panaderia","2027-09-17","Sardimar","16.5","69"
+
+"Atun en Lata 500g","1000000000969","Snacks","2027-10-18","Gallo Dorado","17.25","70"
+
+"Frijoles Volteados 100g","1000000000970","Enlatados","2027-11-19","Dos Pinos","18.0","71"
+
+"Arroz 200g","1000000000971","Granos","2027-12-20","La Granja","18.75","72"
+
+"Azúcar 300g","1000000000972","Lacteos","2027-01-21","Coca Cola","19.5","73"
+
+"Café 400g","1000000000973","Bebidas","2027-02-22","Pepsi","20.25","74"
+
+"Agua Pura 500g","1000000000974","Panaderia","2027-03-23","Bimbo","21.0","75"
+
+"Jugo 100g","1000000000975","Snacks","2027-04-24","Lays","21.75","76"
+
+"Leche Entera 200g","1000000000976","Enlatados","2027-05-25","Tortrix","22.5","77"
+
+"Queso Fresco 300g","1000000000977","Granos","2027-06-26","Ducal","23.25","78"
+
+"Yogurt 400g","1000000000978","Lacteos","2027-07-27","Sardimar","24.0","79"
+
+"Coca Cola 500g","1000000000979","Bebidas","2027-08-28","Gallo Dorado","24.75","80"
+
+"Pepsi 100g","1000000000980","Panaderia","2027-09-01","Dos Pinos","25.5","81"
+
+"Pan Blanco 200g","1000000000981","Snacks","2027-10-02","La Granja","26.25","82"
+
+"Pan Integral 300g","1000000000982","Enlatados","2027-11-03","Coca Cola","27.0","83"
+
+"Papas Fritas 400g","1000000000983","Granos","2027-12-04","Pepsi","27.75","84"
+
+"Tortrix 500g","1000000000984","Lacteos","2027-01-05","Bimbo","28.5","85"
+
+"Atun en Lata 100g","1000000000985","Bebidas","2027-02-06","Lays","29.25","86"
+
+"Frijoles Volteados 200g","1000000000986","Panaderia","2027-03-07","Tortrix","30.0","87"
+
+"Arroz 300g","1000000000987","Snacks","2027-04-08","Ducal","30.75","88"
+
+"Azúcar 400g","1000000000988","Enlatados","2027-05-09","Sardimar","31.5","89"
+
+"Café 500g","1000000000989","Granos","2027-06-10","Gallo Dorado","32.25","90"
+
+"Agua Pura 100g","1000000000990","Lacteos","2027-07-11","Dos Pinos","33.0","91"
+
+"Jugo 200g","1000000000991","Bebidas","2027-08-12","La Granja","33.75","92"
+
+"Leche Entera 300g","1000000000992","Panaderia","2027-09-13","Coca Cola","34.5","93"
+
+"Queso Fresco 400g","1000000000993","Snacks","2027-10-14","Pepsi","35.25","94"
+
+"Yogurt 500g","1000000000994","Enlatados","2027-11-15","Bimbo","36.0","95"
+
+"Coca Cola 100g","1000000000995","Granos","2027-12-16","Lays","36.75","96"
+
+"Pepsi 200g","1000000000996","Lacteos","2027-01-17","Tortrix","37.5","97"
+
+"Pan Blanco 300g","1000000000997","Bebidas","2027-02-18","Ducal","38.25","98"
+
+"Pan Integral 400g","1000000000998","Panaderia","2027-03-19","Sardimar","39.0","99"
+
+"Papas Fritas 500g","1000000000999","Snacks","2027-04-20","Gallo Dorado","39.75","100"
+
+"Tortrix 100g","1000000001000","Enlatados","2027-05-21","Dos Pinos","3.0","1"

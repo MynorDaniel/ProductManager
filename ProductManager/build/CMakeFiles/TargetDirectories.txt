@@ -1,0 +1,3 @@
+/home/mynordma/ProductManager/ProductManager/build/CMakeFiles/ProductManager.dir
+/home/mynordma/ProductManager/ProductManager/build/CMakeFiles/edit_cache.dir
+/home/mynordma/ProductManager/ProductManager/build/CMakeFiles/rebuild_cache.dir

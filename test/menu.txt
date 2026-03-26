@@ -1,0 +1,13 @@
+Gestor de productos
+Menú
+
+1. Agregar producto
+2. Eliminar producto
+3. Buscar producto por nombre
+4. Buscar producto por categoría
+5. Buscar producto por rango de caducidad
+6. Listar por nombre
+7. Comparar búsquedas
+8. Cargar CSV
+9. Visualizar árboles
+10. Salir
