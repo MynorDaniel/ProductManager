@@ -1,7 +1,6 @@
-CMakeFiles/ProductManager.dir/src/main.cpp.o: \
- /home/mynordma/ProductManager/ProductManager/src/main.cpp \
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o: \
+ /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp \
  /usr/include/stdc-predef.h \
- /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.h \
  /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.h \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -209,7 +208,4 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/c++/13/limits /usr/include/c++/13/bits/parse_numbers.h \
  /usr/include/c++/13/bits/fs_path.h /usr/include/c++/13/iomanip \
  /usr/include/c++/13/bits/quoted_string.h /usr/include/c++/13/codecvt \
- /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
- /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
- /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
- /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h
+ /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h

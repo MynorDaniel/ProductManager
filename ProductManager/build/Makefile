@@ -129,6 +129,102 @@ ProductManager/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/build
 .PHONY : ProductManager/fast
 
+src/csv/CSVManager.o: src/csv/CSVManager.cpp.o
+.PHONY : src/csv/CSVManager.o
+
+# target to build an object file
+src/csv/CSVManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o
+.PHONY : src/csv/CSVManager.cpp.o
+
+src/csv/CSVManager.i: src/csv/CSVManager.cpp.i
+.PHONY : src/csv/CSVManager.i
+
+# target to preprocess a source file
+src/csv/CSVManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.i
+.PHONY : src/csv/CSVManager.cpp.i
+
+src/csv/CSVManager.s: src/csv/CSVManager.cpp.s
+.PHONY : src/csv/CSVManager.s
+
+# target to generate assembly for a file
+src/csv/CSVManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.s
+.PHONY : src/csv/CSVManager.cpp.s
+
+src/csv/Logger.o: src/csv/Logger.cpp.o
+.PHONY : src/csv/Logger.o
+
+# target to build an object file
+src/csv/Logger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o
+.PHONY : src/csv/Logger.cpp.o
+
+src/csv/Logger.i: src/csv/Logger.cpp.i
+.PHONY : src/csv/Logger.i
+
+# target to preprocess a source file
+src/csv/Logger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.i
+.PHONY : src/csv/Logger.cpp.i
+
+src/csv/Logger.s: src/csv/Logger.cpp.s
+.PHONY : src/csv/Logger.s
+
+# target to generate assembly for a file
+src/csv/Logger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.s
+.PHONY : src/csv/Logger.cpp.s
+
+src/exceptions/CSVException.o: src/exceptions/CSVException.cpp.o
+.PHONY : src/exceptions/CSVException.o
+
+# target to build an object file
+src/exceptions/CSVException.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o
+.PHONY : src/exceptions/CSVException.cpp.o
+
+src/exceptions/CSVException.i: src/exceptions/CSVException.cpp.i
+.PHONY : src/exceptions/CSVException.i
+
+# target to preprocess a source file
+src/exceptions/CSVException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.i
+.PHONY : src/exceptions/CSVException.cpp.i
+
+src/exceptions/CSVException.s: src/exceptions/CSVException.cpp.s
+.PHONY : src/exceptions/CSVException.s
+
+# target to generate assembly for a file
+src/exceptions/CSVException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.s
+.PHONY : src/exceptions/CSVException.cpp.s
+
+src/exceptions/ProductException.o: src/exceptions/ProductException.cpp.o
+.PHONY : src/exceptions/ProductException.o
+
+# target to build an object file
+src/exceptions/ProductException.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o
+.PHONY : src/exceptions/ProductException.cpp.o
+
+src/exceptions/ProductException.i: src/exceptions/ProductException.cpp.i
+.PHONY : src/exceptions/ProductException.i
+
+# target to preprocess a source file
+src/exceptions/ProductException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.i
+.PHONY : src/exceptions/ProductException.cpp.i
+
+src/exceptions/ProductException.s: src/exceptions/ProductException.cpp.s
+.PHONY : src/exceptions/ProductException.s
+
+# target to generate assembly for a file
+src/exceptions/ProductException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.s
+.PHONY : src/exceptions/ProductException.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -153,6 +249,102 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/manager/ProductManager.o: src/manager/ProductManager.cpp.o
+.PHONY : src/manager/ProductManager.o
+
+# target to build an object file
+src/manager/ProductManager.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o
+.PHONY : src/manager/ProductManager.cpp.o
+
+src/manager/ProductManager.i: src/manager/ProductManager.cpp.i
+.PHONY : src/manager/ProductManager.i
+
+# target to preprocess a source file
+src/manager/ProductManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.i
+.PHONY : src/manager/ProductManager.cpp.i
+
+src/manager/ProductManager.s: src/manager/ProductManager.cpp.s
+.PHONY : src/manager/ProductManager.s
+
+# target to generate assembly for a file
+src/manager/ProductManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.s
+.PHONY : src/manager/ProductManager.cpp.s
+
+src/measurer/Measurer.o: src/measurer/Measurer.cpp.o
+.PHONY : src/measurer/Measurer.o
+
+# target to build an object file
+src/measurer/Measurer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o
+.PHONY : src/measurer/Measurer.cpp.o
+
+src/measurer/Measurer.i: src/measurer/Measurer.cpp.i
+.PHONY : src/measurer/Measurer.i
+
+# target to preprocess a source file
+src/measurer/Measurer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.i
+.PHONY : src/measurer/Measurer.cpp.i
+
+src/measurer/Measurer.s: src/measurer/Measurer.cpp.s
+.PHONY : src/measurer/Measurer.s
+
+# target to generate assembly for a file
+src/measurer/Measurer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.s
+.PHONY : src/measurer/Measurer.cpp.s
+
+src/product/Product.o: src/product/Product.cpp.o
+.PHONY : src/product/Product.o
+
+# target to build an object file
+src/product/Product.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/product/Product.cpp.o
+.PHONY : src/product/Product.cpp.o
+
+src/product/Product.i: src/product/Product.cpp.i
+.PHONY : src/product/Product.i
+
+# target to preprocess a source file
+src/product/Product.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/product/Product.cpp.i
+.PHONY : src/product/Product.cpp.i
+
+src/product/Product.s: src/product/Product.cpp.s
+.PHONY : src/product/Product.s
+
+# target to generate assembly for a file
+src/product/Product.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/product/Product.cpp.s
+.PHONY : src/product/Product.cpp.s
+
+src/visualizer/Visualizer.o: src/visualizer/Visualizer.cpp.o
+.PHONY : src/visualizer/Visualizer.o
+
+# target to build an object file
+src/visualizer/Visualizer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o
+.PHONY : src/visualizer/Visualizer.cpp.o
+
+src/visualizer/Visualizer.i: src/visualizer/Visualizer.cpp.i
+.PHONY : src/visualizer/Visualizer.i
+
+# target to preprocess a source file
+src/visualizer/Visualizer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.i
+.PHONY : src/visualizer/Visualizer.cpp.i
+
+src/visualizer/Visualizer.s: src/visualizer/Visualizer.cpp.s
+.PHONY : src/visualizer/Visualizer.s
+
+# target to generate assembly for a file
+src/visualizer/Visualizer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s
+.PHONY : src/visualizer/Visualizer.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,9 +354,33 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ProductManager"
+	@echo "... src/csv/CSVManager.o"
+	@echo "... src/csv/CSVManager.i"
+	@echo "... src/csv/CSVManager.s"
+	@echo "... src/csv/Logger.o"
+	@echo "... src/csv/Logger.i"
+	@echo "... src/csv/Logger.s"
+	@echo "... src/exceptions/CSVException.o"
+	@echo "... src/exceptions/CSVException.i"
+	@echo "... src/exceptions/CSVException.s"
+	@echo "... src/exceptions/ProductException.o"
+	@echo "... src/exceptions/ProductException.i"
+	@echo "... src/exceptions/ProductException.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/manager/ProductManager.o"
+	@echo "... src/manager/ProductManager.i"
+	@echo "... src/manager/ProductManager.s"
+	@echo "... src/measurer/Measurer.o"
+	@echo "... src/measurer/Measurer.i"
+	@echo "... src/measurer/Measurer.s"
+	@echo "... src/product/Product.o"
+	@echo "... src/product/Product.i"
+	@echo "... src/product/Product.s"
+	@echo "... src/visualizer/Visualizer.o"
+	@echo "... src/visualizer/Visualizer.i"
+	@echo "... src/visualizer/Visualizer.s"
 .PHONY : help
 
 

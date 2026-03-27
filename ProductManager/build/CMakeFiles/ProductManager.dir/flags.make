@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer
 
-CXX_FLAGS = -g
+CXX_FLAGS = -g -std=gnu++17
 

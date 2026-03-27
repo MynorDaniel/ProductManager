@@ -83,17 +83,145 @@ CMakeFiles/ProductManager.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/main.cpp -o CMakeFiles/ProductManager.dir/src/main.cpp.s
 
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o -MF CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o.d -o CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp
+
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp > CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.i
+
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp -o CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.s
+
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o: /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o -MF CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o.d -o CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp
+
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp > CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.i
+
+CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp -o CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.s
+
+CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o: /home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp
+CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o -MF CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o.d -o CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp
+
+CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp > CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.i
+
+CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp -o CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.s
+
+CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o: /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp
+CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o -MF CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o.d -o CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp
+
+CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp > CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.i
+
+CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp -o CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.s
+
+CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o: /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp
+CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o -MF CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o.d -o CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp
+
+CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp > CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.i
+
+CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp -o CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.s
+
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.o: /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ProductManager.dir/src/product/Product.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/product/Product.cpp.o -MF CMakeFiles/ProductManager.dir/src/product/Product.cpp.o.d -o CMakeFiles/ProductManager.dir/src/product/Product.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp
+
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/product/Product.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp > CMakeFiles/ProductManager.dir/src/product/Product.cpp.i
+
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/product/Product.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp -o CMakeFiles/ProductManager.dir/src/product/Product.cpp.s
+
+CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o: /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp
+CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o -MF CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o.d -o CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp
+
+CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp > CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.i
+
+CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp -o CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.s
+
+CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o: /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp
+CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o -MF CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o.d -o CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp
+
+CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp > CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.i
+
+CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp -o CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s
+
 # Object files for target ProductManager
 ProductManager_OBJECTS = \
-"CMakeFiles/ProductManager.dir/src/main.cpp.o"
+"CMakeFiles/ProductManager.dir/src/main.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/product/Product.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o"
 
 # External object files for target ProductManager
 ProductManager_EXTERNAL_OBJECTS =
 
 ProductManager: CMakeFiles/ProductManager.dir/src/main.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/product/Product.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/build.make
 ProductManager: CMakeFiles/ProductManager.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ProductManager"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable ProductManager"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProductManager.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

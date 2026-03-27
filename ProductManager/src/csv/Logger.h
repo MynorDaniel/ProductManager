@@ -4,12 +4,15 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <filesystem>
 
 class Logger {
 public:
 
 void addLog(const std::string& log);
-void saveLogs(const std::string& filename);
+std::string saveLogs(const std::string& filename);
+void clearLogs();
+std::string getLogs() const;
 
 private:
 

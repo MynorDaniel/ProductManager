@@ -1,5 +1,7 @@
-#include <iostream>
+#include "manager/ProductManager.h"
 
 int main(int, char**){
-    std::cout << "Hello, from ProductManager!\n";
+    ProductManager manager;
+    manager.start();
+    return 0;
 }

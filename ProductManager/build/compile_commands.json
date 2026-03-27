@@ -1,8 +1,56 @@
 [
 {
   "directory": "/home/mynordma/ProductManager/ProductManager/build",
-  "command": "/usr/bin/c++   -g -o CMakeFiles/ProductManager.dir/src/main.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/main.cpp",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/main.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/main.cpp",
   "file": "/home/mynordma/ProductManager/ProductManager/src/main.cpp",
   "output": "CMakeFiles/ProductManager.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/product/Product.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/product/Product.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/product/Product.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o"
 }
 ]

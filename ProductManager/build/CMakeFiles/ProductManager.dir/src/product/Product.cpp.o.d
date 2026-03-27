@@ -1,8 +1,7 @@
-CMakeFiles/ProductManager.dir/src/main.cpp.o: \
- /home/mynordma/ProductManager/ProductManager/src/main.cpp \
+CMakeFiles/ProductManager.dir/src/product/Product.cpp.o: \
+ /home/mynordma/ProductManager/ProductManager/src/product/Product.cpp \
  /usr/include/stdc-predef.h \
- /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.h \
- /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.h \
+ /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
  /usr/include/c++/13/string /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -117,13 +116,9 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/memory_resource.h /usr/include/c++/13/cstddef \
  /usr/include/c++/13/bits/uses_allocator.h \
  /usr/include/c++/13/bits/uses_allocator_args.h /usr/include/c++/13/tuple \
- /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
- /usr/include/c++/13/bits/stl_vector.h \
- /usr/include/c++/13/bits/stl_bvector.h \
- /usr/include/c++/13/bits/vector.tcc \
- /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
- /home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.h \
- /usr/include/c++/13/exception /usr/include/c++/13/bits/exception_ptr.h \
+ /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.h \
+ /usr/include/c++/13/stdexcept /usr/include/c++/13/exception \
+ /usr/include/c++/13/bits/exception_ptr.h \
  /usr/include/c++/13/bits/cxxabi_init_exception.h \
  /usr/include/c++/13/typeinfo /usr/include/c++/13/bits/nested_exception.h \
  /usr/include/c++/13/regex /usr/include/c++/13/bitset \
@@ -150,8 +145,7 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_base.h \
  /usr/include/c++/13/bits/ios_base.h /usr/include/c++/13/system_error \
  /usr/include/x86_64-linux-gnu/c++/13/bits/error_constants.h \
- /usr/include/c++/13/stdexcept /usr/include/c++/13/streambuf \
- /usr/include/c++/13/bits/streambuf.tcc \
+ /usr/include/c++/13/streambuf /usr/include/c++/13/bits/streambuf.tcc \
  /usr/include/c++/13/bits/streambuf_iterator.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/ctype_inline.h \
  /usr/include/c++/13/bits/locale_facets.tcc \
@@ -167,8 +161,9 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/ostream.tcc \
  /usr/include/c++/13/bits/istream.tcc \
  /usr/include/c++/13/bits/sstream.tcc /usr/include/c++/13/stack \
- /usr/include/c++/13/deque /usr/include/c++/13/bits/stl_deque.h \
- /usr/include/c++/13/bits/deque.tcc /usr/include/c++/13/bits/stl_stack.h \
+ /usr/include/c++/13/deque /usr/include/c++/13/bits/stl_uninitialized.h \
+ /usr/include/c++/13/bits/stl_deque.h /usr/include/c++/13/bits/deque.tcc \
+ /usr/include/c++/13/bits/stl_stack.h \
  /usr/include/c++/13/ext/aligned_buffer.h \
  /usr/include/c++/13/bits/shared_ptr.h \
  /usr/include/c++/13/bits/shared_ptr_base.h \
@@ -183,7 +178,9 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/stl_tempbuf.h \
  /usr/include/c++/13/bits/stl_tree.h \
  /usr/include/c++/13/bits/node_handle.h \
- /usr/include/c++/13/bits/stl_map.h \
+ /usr/include/c++/13/bits/stl_map.h /usr/include/c++/13/bits/stl_vector.h \
+ /usr/include/c++/13/bits/stl_bvector.h \
+ /usr/include/c++/13/bits/vector.tcc \
  /usr/include/c++/13/bits/regex_constants.h \
  /usr/include/c++/13/bits/regex_error.h \
  /usr/include/c++/13/bits/regex_automaton.h \
@@ -194,22 +191,4 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /usr/include/c++/13/bits/regex_compiler.tcc \
  /usr/include/c++/13/bits/regex.h /usr/include/c++/13/bits/regex.tcc \
  /usr/include/c++/13/bits/regex_executor.h \
- /usr/include/c++/13/bits/regex_executor.tcc /usr/include/c++/13/fstream \
- /usr/include/x86_64-linux-gnu/c++/13/bits/basic_file.h \
- /usr/include/x86_64-linux-gnu/c++/13/bits/c++io.h \
- /usr/include/c++/13/bits/fstream.tcc \
- /home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.h \
- /home/mynordma/ProductManager/ProductManager/src/csv/Logger.h \
- /usr/include/c++/13/iostream /usr/include/c++/13/filesystem \
- /usr/include/c++/13/bits/fs_fwd.h /usr/include/c++/13/cstdint \
- /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /usr/include/c++/13/bits/chrono.h /usr/include/c++/13/ratio \
- /usr/include/c++/13/limits /usr/include/c++/13/bits/parse_numbers.h \
- /usr/include/c++/13/bits/fs_path.h /usr/include/c++/13/iomanip \
- /usr/include/c++/13/bits/quoted_string.h /usr/include/c++/13/codecvt \
- /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
- /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
- /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
- /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h
+ /usr/include/c++/13/bits/regex_executor.tcc

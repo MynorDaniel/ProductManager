@@ -1,5 +1,5 @@
-CMakeFiles/ProductManager.dir/src/main.cpp.o: \
- /home/mynordma/ProductManager/ProductManager/src/main.cpp \
+CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: \
+ /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp \
  /usr/include/stdc-predef.h \
  /home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.h \
  /home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.h \

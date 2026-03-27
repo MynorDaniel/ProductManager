@@ -8,7 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/mynordma/ProductManager/ProductManager/src/csv/CSVManager.cpp" "CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/csv/CSVManager.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/csv/Logger.cpp" "CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/csv/Logger.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/exceptions/CSVException.cpp" "CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/exceptions/CSVException.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/exceptions/ProductException.cpp" "CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o.d"
   "/home/mynordma/ProductManager/ProductManager/src/main.cpp" "CMakeFiles/ProductManager.dir/src/main.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/main.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/manager/ProductManager.cpp" "CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.cpp" "CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/product/Product.cpp" "CMakeFiles/ProductManager.dir/src/product/Product.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/product/Product.cpp.o.d"
+  "/home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp" "CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o" "gcc" "CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
