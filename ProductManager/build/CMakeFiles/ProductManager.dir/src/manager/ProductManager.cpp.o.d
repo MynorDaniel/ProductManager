@@ -212,4 +212,9 @@ CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: \
  /usr/include/c++/13/bits/fs_dir.h /usr/include/c++/13/bits/fs_ops.h \
  /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
  /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
- /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h
+ /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.h

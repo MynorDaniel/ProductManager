@@ -195,6 +195,62 @@ CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp -o CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.s
 
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp > CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.s
+
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp > CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.s
+
+CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp
+CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp > CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp -o CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.s
+
+CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp
+CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp > CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp -o CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s
+
 # Object files for target ProductManager
 ProductManager_OBJECTS = \
 "CMakeFiles/ProductManager.dir/src/main.cpp.o" \
@@ -205,7 +261,11 @@ ProductManager_OBJECTS = \
 "CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cpp.o" \
 "CMakeFiles/ProductManager.dir/src/product/Product.cpp.o" \
 "CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o" \
-"CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o"
+"CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o"
 
 # External object files for target ProductManager
 ProductManager_EXTERNAL_OBJECTS =
@@ -219,9 +279,13 @@ ProductManager: CMakeFiles/ProductManager.dir/src/exceptions/ProductException.cp
 ProductManager: CMakeFiles/ProductManager.dir/src/product/Product.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/src/measurer/Measurer.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/build.make
 ProductManager: CMakeFiles/ProductManager.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable ProductManager"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ProductManager"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProductManager.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

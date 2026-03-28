@@ -52,5 +52,29 @@
   "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp",
   "file": "/home/mynordma/ProductManager/ProductManager/src/visualizer/Visualizer.cpp",
   "output": "CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o"
 }
 ]

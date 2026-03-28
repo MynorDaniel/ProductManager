@@ -15,6 +15,10 @@ add_executable(ProductManager
     src/product/Product.cpp
     src/measurer/Measurer.cpp
     src/visualizer/Visualizer.cpp
+    src/structures/list/LinkedList.cpp
+    src/structures/list/LinkedListNode.cpp
+    src/structures/list/SortedLinkedList.cpp
+    src/structures/list/UnsortedLinkedList.cpp
 )
 
 target_include_directories(ProductManager PRIVATE

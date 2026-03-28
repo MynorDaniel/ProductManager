@@ -1,11 +1,14 @@
 #include "ProductManager.h"
-#include <iostream>
-#include <limits>
+
+namespace Test {
+    void printStructuresState(const ProductManager& manager);
+}
 
 ProductManager::ProductManager()
 {
     this->csvManager = CSVManager();
     this->measurer = Measurer();
+    this->unsortedList = UnsortedLinkedList();
 }
 
 ProductManager::~ProductManager()
@@ -86,37 +89,95 @@ int ProductManager::showMenu()
 
 void ProductManager::addProduct()
 {
-    std::cout << "[1] Agregar producto" << std::endl;
+    std::cout << "Ingrese el nombre del producto: ";
+    std::string name;
+    std::getline(std::cin, name);
+
+    std::cout << "Ingrese el código de barras del producto: ";
+    std::string barcode;
+    std::getline(std::cin, barcode);
+
+    std::cout << "Ingrese la categoría del producto: ";
+    std::string category;
+    std::getline(std::cin, category);
+
+    std::cout << "Ingrese la fecha de caducidad del producto (YYYY-MM-DD): ";
+    std::string expiry_date;
+    std::getline(std::cin, expiry_date);
+
+    std::cout << "Ingrese la marca del producto: ";
+    std::string brand;
+    std::getline(std::cin, brand);
+
+    std::cout << "Ingrese el precio del producto: ";
+    double price;
+    std::cin >> price;
+    std::cin.ignore();
+
+    std::cout << "Ingrese el stock del producto: ";
+    int stock;
+    std::cin >> stock;
+    std::cin.ignore();
+
+    Product product;
+    product.name = name;
+    product.barcode = barcode;
+    product.category = category;
+    product.expiry_date = expiry_date;
+    product.brand = brand;
+    product.price = price;
+    product.stock = stock;
+
+    try {
+        product.validate();
+        unsortedList.insert(product);
+        sortedList.insert(product);
+        std::cout << "Producto agregado exitosamente." << std::endl;
+    } catch (const ProductException& e) {
+        std::cout << "Error al agregar producto: " << e.what() << std::endl;
+    }
+
+    Test::printStructuresState(*this);
 }
 
 void ProductManager::removeProduct()
 {
-    std::cout << "[2] Eliminar producto" << std::endl;
+    std::cout << "Ingrese el código de barras del producto a eliminar: ";
+    std::string barcode;
+    std::getline(std::cin, barcode);
+
+    Product product;
+    product.barcode = barcode;
+    unsortedList.remove(product);
+    sortedList.remove(product);
+    std::cout << "Producto eliminado." << std::endl;
+
+    Test::printStructuresState(*this);
 }
 
 void ProductManager::searchProductByName()
 {
-    std::cout << "[3] Buscar producto por nombre" << std::endl;
+    std::cout << "Buscar producto por nombre" << std::endl;
 }
 
 void ProductManager::searchProductByCategory()
 {
-    std::cout << "[4] Buscar producto por categoría" << std::endl;
+    std::cout << "Buscar producto por categoría" << std::endl;
 }
 
 void ProductManager::searchProductByExpirationRange()
 {
-    std::cout << "[5] Buscar producto por rango de caducidad" << std::endl;
+    std::cout << "Buscar producto por rango de caducidad" << std::endl;
 }
 
 void ProductManager::listByName()
 {
-    std::cout << "[6] Listar por nombre" << std::endl;
+    std::cout << "Listar por nombre" << std::endl;
 }
 
 void ProductManager::compareSearches()
 {
-    std::cout << "[7] Comparar búsquedas" << std::endl;
+    std::cout << "Comparar búsquedas" << std::endl;
 }
 
 void ProductManager::loadCSV()
@@ -130,6 +191,9 @@ void ProductManager::loadCSV()
         std::cout << "Producto " << (i + 1) << ": " << products[i].name << ", " << products[i].barcode << ", " 
                   << products[i].category << ", " << products[i].expiry_date << ", " << products[i].brand 
                   << ", " << products[i].price << ", " << products[i].stock << std::endl;
+
+        unsortedList.insert(products[i]);
+        sortedList.insert(products[i]);
     }
 
     Logger& logger = csvManager.getLogger();
@@ -142,14 +206,48 @@ void ProductManager::loadCSV()
     std::string logsPath = logger.saveLogs("errors.log");
     std::cout << "Logs guardados en: " << logsPath << std::endl;
     logger.clearLogs();
+
+    Test::printStructuresState(*this);
 }
 
 void ProductManager::visualizeTrees()
 {
-    std::cout << "[9] Visualizar árboles" << std::endl;
+    std::cout << "Visualizar árboles" << std::endl;
 }
 
 void ProductManager::exitProgram()
 {
     std::cout << "Saliendo..." << std::endl;
+}
+
+const UnsortedLinkedList& ProductManager::getUnsortedList() const {
+    return this->unsortedList;
+}
+
+const SortedLinkedList& ProductManager::getSortedList() const {
+    return this->sortedList;
+}
+
+namespace Test {
+    void printStructuresState(const ProductManager& manager) {
+        std::cout << "\nProductos en la lista enlazada no ordenada:" << std::endl;
+        for (LinkedListNode* current = manager.getUnsortedList().getHead(); current != nullptr; current = current->getNext()) {
+            Product* product = current->getData();
+            if (product != nullptr) {
+                std::cout << "Producto: " << product->name << ", " << product->barcode << ", " 
+                          << product->category << ", " << product->expiry_date << ", " << product->brand 
+                          << ", " << product->price << ", " << product->stock << std::endl;
+            }
+        }
+
+        std::cout << "\nProductos en la lista enlazada ordenada:" << std::endl;
+        for (LinkedListNode* current = manager.getSortedList().getHead(); current != nullptr; current = current->getNext()) {
+            Product* product = current->getData();
+            if (product != nullptr) {
+                std::cout << "Producto: " << product->name << ", " << product->barcode << ", " 
+                          << product->category << ", " << product->expiry_date << ", " << product->brand 
+                          << ", " << product->price << ", " << product->stock << std::endl;
+            }
+        }
+    }
 }

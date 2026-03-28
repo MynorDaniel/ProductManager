@@ -5,6 +5,13 @@
 #include "structures/DataStructure.h"
 #include "measurer/Measurer.h"
 #include <fstream>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <limits>
+
+#include "structures/list/UnsortedLinkedList.h"
+#include "structures/list/SortedLinkedList.h"
 
 class ProductManager
 {
@@ -12,11 +19,18 @@ private:
     CSVManager csvManager;
     Measurer measurer; 
 
+    UnsortedLinkedList unsortedList;
+    SortedLinkedList sortedList;
+
 public:
     ProductManager();
     ~ProductManager();
 
     void start();
+
+    // getters
+    const UnsortedLinkedList& getUnsortedList() const;
+    const SortedLinkedList& getSortedList() const;
 
 private:
 

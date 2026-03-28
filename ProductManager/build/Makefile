@@ -321,6 +321,102 @@ src/product/Product.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/product/Product.cpp.s
 .PHONY : src/product/Product.cpp.s
 
+src/structures/list/LinkedList.o: src/structures/list/LinkedList.cpp.o
+.PHONY : src/structures/list/LinkedList.o
+
+# target to build an object file
+src/structures/list/LinkedList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o
+.PHONY : src/structures/list/LinkedList.cpp.o
+
+src/structures/list/LinkedList.i: src/structures/list/LinkedList.cpp.i
+.PHONY : src/structures/list/LinkedList.i
+
+# target to preprocess a source file
+src/structures/list/LinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.i
+.PHONY : src/structures/list/LinkedList.cpp.i
+
+src/structures/list/LinkedList.s: src/structures/list/LinkedList.cpp.s
+.PHONY : src/structures/list/LinkedList.s
+
+# target to generate assembly for a file
+src/structures/list/LinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.s
+.PHONY : src/structures/list/LinkedList.cpp.s
+
+src/structures/list/LinkedListNode.o: src/structures/list/LinkedListNode.cpp.o
+.PHONY : src/structures/list/LinkedListNode.o
+
+# target to build an object file
+src/structures/list/LinkedListNode.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o
+.PHONY : src/structures/list/LinkedListNode.cpp.o
+
+src/structures/list/LinkedListNode.i: src/structures/list/LinkedListNode.cpp.i
+.PHONY : src/structures/list/LinkedListNode.i
+
+# target to preprocess a source file
+src/structures/list/LinkedListNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.i
+.PHONY : src/structures/list/LinkedListNode.cpp.i
+
+src/structures/list/LinkedListNode.s: src/structures/list/LinkedListNode.cpp.s
+.PHONY : src/structures/list/LinkedListNode.s
+
+# target to generate assembly for a file
+src/structures/list/LinkedListNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.s
+.PHONY : src/structures/list/LinkedListNode.cpp.s
+
+src/structures/list/SortedLinkedList.o: src/structures/list/SortedLinkedList.cpp.o
+.PHONY : src/structures/list/SortedLinkedList.o
+
+# target to build an object file
+src/structures/list/SortedLinkedList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o
+.PHONY : src/structures/list/SortedLinkedList.cpp.o
+
+src/structures/list/SortedLinkedList.i: src/structures/list/SortedLinkedList.cpp.i
+.PHONY : src/structures/list/SortedLinkedList.i
+
+# target to preprocess a source file
+src/structures/list/SortedLinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.i
+.PHONY : src/structures/list/SortedLinkedList.cpp.i
+
+src/structures/list/SortedLinkedList.s: src/structures/list/SortedLinkedList.cpp.s
+.PHONY : src/structures/list/SortedLinkedList.s
+
+# target to generate assembly for a file
+src/structures/list/SortedLinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.s
+.PHONY : src/structures/list/SortedLinkedList.cpp.s
+
+src/structures/list/UnsortedLinkedList.o: src/structures/list/UnsortedLinkedList.cpp.o
+.PHONY : src/structures/list/UnsortedLinkedList.o
+
+# target to build an object file
+src/structures/list/UnsortedLinkedList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o
+.PHONY : src/structures/list/UnsortedLinkedList.cpp.o
+
+src/structures/list/UnsortedLinkedList.i: src/structures/list/UnsortedLinkedList.cpp.i
+.PHONY : src/structures/list/UnsortedLinkedList.i
+
+# target to preprocess a source file
+src/structures/list/UnsortedLinkedList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.i
+.PHONY : src/structures/list/UnsortedLinkedList.cpp.i
+
+src/structures/list/UnsortedLinkedList.s: src/structures/list/UnsortedLinkedList.cpp.s
+.PHONY : src/structures/list/UnsortedLinkedList.s
+
+# target to generate assembly for a file
+src/structures/list/UnsortedLinkedList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s
+.PHONY : src/structures/list/UnsortedLinkedList.cpp.s
+
 src/visualizer/Visualizer.o: src/visualizer/Visualizer.cpp.o
 .PHONY : src/visualizer/Visualizer.o
 
@@ -378,6 +474,18 @@ help:
 	@echo "... src/product/Product.o"
 	@echo "... src/product/Product.i"
 	@echo "... src/product/Product.s"
+	@echo "... src/structures/list/LinkedList.o"
+	@echo "... src/structures/list/LinkedList.i"
+	@echo "... src/structures/list/LinkedList.s"
+	@echo "... src/structures/list/LinkedListNode.o"
+	@echo "... src/structures/list/LinkedListNode.i"
+	@echo "... src/structures/list/LinkedListNode.s"
+	@echo "... src/structures/list/SortedLinkedList.o"
+	@echo "... src/structures/list/SortedLinkedList.i"
+	@echo "... src/structures/list/SortedLinkedList.s"
+	@echo "... src/structures/list/UnsortedLinkedList.o"
+	@echo "... src/structures/list/UnsortedLinkedList.i"
+	@echo "... src/structures/list/UnsortedLinkedList.s"
 	@echo "... src/visualizer/Visualizer.o"
 	@echo "... src/visualizer/Visualizer.i"
 	@echo "... src/visualizer/Visualizer.s"
