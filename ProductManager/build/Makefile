@@ -321,6 +321,54 @@ src/product/Product.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/product/Product.cpp.s
 .PHONY : src/product/Product.cpp.s
 
+src/structures/avl/AVLNode.o: src/structures/avl/AVLNode.cpp.o
+.PHONY : src/structures/avl/AVLNode.o
+
+# target to build an object file
+src/structures/avl/AVLNode.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o
+.PHONY : src/structures/avl/AVLNode.cpp.o
+
+src/structures/avl/AVLNode.i: src/structures/avl/AVLNode.cpp.i
+.PHONY : src/structures/avl/AVLNode.i
+
+# target to preprocess a source file
+src/structures/avl/AVLNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.i
+.PHONY : src/structures/avl/AVLNode.cpp.i
+
+src/structures/avl/AVLNode.s: src/structures/avl/AVLNode.cpp.s
+.PHONY : src/structures/avl/AVLNode.s
+
+# target to generate assembly for a file
+src/structures/avl/AVLNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.s
+.PHONY : src/structures/avl/AVLNode.cpp.s
+
+src/structures/avl/AVLTree.o: src/structures/avl/AVLTree.cpp.o
+.PHONY : src/structures/avl/AVLTree.o
+
+# target to build an object file
+src/structures/avl/AVLTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o
+.PHONY : src/structures/avl/AVLTree.cpp.o
+
+src/structures/avl/AVLTree.i: src/structures/avl/AVLTree.cpp.i
+.PHONY : src/structures/avl/AVLTree.i
+
+# target to preprocess a source file
+src/structures/avl/AVLTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.i
+.PHONY : src/structures/avl/AVLTree.cpp.i
+
+src/structures/avl/AVLTree.s: src/structures/avl/AVLTree.cpp.s
+.PHONY : src/structures/avl/AVLTree.s
+
+# target to generate assembly for a file
+src/structures/avl/AVLTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.s
+.PHONY : src/structures/avl/AVLTree.cpp.s
+
 src/structures/list/LinkedList.o: src/structures/list/LinkedList.cpp.o
 .PHONY : src/structures/list/LinkedList.o
 
@@ -474,6 +522,12 @@ help:
 	@echo "... src/product/Product.o"
 	@echo "... src/product/Product.i"
 	@echo "... src/product/Product.s"
+	@echo "... src/structures/avl/AVLNode.o"
+	@echo "... src/structures/avl/AVLNode.i"
+	@echo "... src/structures/avl/AVLNode.s"
+	@echo "... src/structures/avl/AVLTree.o"
+	@echo "... src/structures/avl/AVLTree.i"
+	@echo "... src/structures/avl/AVLTree.s"
 	@echo "... src/structures/list/LinkedList.o"
 	@echo "... src/structures/list/LinkedList.i"
 	@echo "... src/structures/list/LinkedList.s"

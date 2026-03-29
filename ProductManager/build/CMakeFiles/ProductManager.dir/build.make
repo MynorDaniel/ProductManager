@@ -251,6 +251,34 @@ CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/list/UnsortedLinkedList.cpp -o CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.s
 
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.cpp
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.cpp > CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.cpp -o CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.s
+
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o: CMakeFiles/ProductManager.dir/flags.make
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o: /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o: CMakeFiles/ProductManager.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o -MF CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o.d -o CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp
+
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp > CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.i
+
+CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp -o CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.s
+
 # Object files for target ProductManager
 ProductManager_OBJECTS = \
 "CMakeFiles/ProductManager.dir/src/main.cpp.o" \
@@ -265,7 +293,9 @@ ProductManager_OBJECTS = \
 "CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp.o" \
 "CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o" \
 "CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o" \
-"CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o"
+"CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o" \
+"CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o"
 
 # External object files for target ProductManager
 ProductManager_EXTERNAL_OBJECTS =
@@ -283,9 +313,11 @@ ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/LinkedList.cpp
 ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/LinkedListNode.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/SortedLinkedList.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/src/structures/list/UnsortedLinkedList.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/avl/AVLNode.cpp.o
+ProductManager: CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o
 ProductManager: CMakeFiles/ProductManager.dir/build.make
 ProductManager: CMakeFiles/ProductManager.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable ProductManager"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mynordma/ProductManager/ProductManager/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable ProductManager"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ProductManager.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

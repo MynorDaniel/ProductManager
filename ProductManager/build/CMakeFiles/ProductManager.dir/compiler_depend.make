@@ -792,6 +792,8 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: /home/mynordma/ProductManager/Prod
   /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h \
   /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
+  /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.h \
+  /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.h \
@@ -1062,6 +1064,8 @@ CMakeFiles/ProductManager.dir/src/manager/ProductManager.cpp.o: /home/mynordma/P
   /home/mynordma/ProductManager/ProductManager/src/measurer/Measurer.h \
   /home/mynordma/ProductManager/ProductManager/src/product/Product.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
+  /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.h \
+  /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.h \
   /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.h \
@@ -2164,6 +2168,10 @@ CMakeFiles/ProductManager.dir/src/visualizer/Visualizer.cpp.o: /home/mynordma/Pr
 /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.h:
 
 /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.h:
+
+/home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.h:
+
+/home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.h:
 
 /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h:
 

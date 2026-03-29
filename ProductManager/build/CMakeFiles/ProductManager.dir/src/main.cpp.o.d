@@ -217,4 +217,6 @@ CMakeFiles/ProductManager.dir/src/main.cpp.o: \
  /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedList.h \
  /home/mynordma/ProductManager/ProductManager/src/structures/list/LinkedListNode.h \
  /home/mynordma/ProductManager/ProductManager/src/structures/DataStructure.h \
- /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.h
+ /home/mynordma/ProductManager/ProductManager/src/structures/list/SortedLinkedList.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.h \
+ /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLNode.h

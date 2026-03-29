@@ -2,6 +2,7 @@
 
 namespace Test {
     void printStructuresState(const ProductManager& manager);
+    void printTree(AVLNode* node, int space = 0, int indent = 5);
 }
 
 ProductManager::ProductManager()
@@ -9,6 +10,7 @@ ProductManager::ProductManager()
     this->csvManager = CSVManager();
     this->measurer = Measurer();
     this->unsortedList = UnsortedLinkedList();
+    this->avlTree = AVLTree();
 }
 
 ProductManager::~ProductManager()
@@ -228,6 +230,10 @@ const SortedLinkedList& ProductManager::getSortedList() const {
     return this->sortedList;
 }
 
+const AVLTree& ProductManager::getAVLTree() const {
+    return this->avlTree;
+}
+
 namespace Test {
     void printStructuresState(const ProductManager& manager) {
         std::cout << "\nProductos en la lista enlazada no ordenada:" << std::endl;
@@ -249,5 +255,24 @@ namespace Test {
                           << ", " << product->price << ", " << product->stock << std::endl;
             }
         }
+
+        std::string avlProducts = manager.getAVLTree().inOrder();
+        std::cout << avlProducts << std::endl;
+        printTree(manager.getAVLTree().getRoot(), 0, 5);
+    }
+
+    void printTree(AVLNode* node, int space, int indent) {
+        if (!node) return;
+
+        space += indent;
+
+        printTree(node->getRight(), space);
+
+        std::cout << std::endl;
+        for (int i = indent; i < space; i++) std::cout << " ";
+        Product* product = node->getData();
+        std::cout << (product ? product->name : "(null)") << "\n";
+
+        printTree(node->getLeft(), space);
     }
 }
