@@ -88,5 +88,23 @@
   "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp",
   "file": "/home/mynordma/ProductManager/ProductManager/src/structures/avl/AVLTree.cpp",
   "output": "CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/btree/BNode.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/btree/BNode.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/btree/BNode.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/btree/BNode.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/btree/BTree.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/btree/BTree.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/btree/BTree.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/btree/BTree.cpp.o"
+},
+{
+  "directory": "/home/mynordma/ProductManager/ProductManager/build",
+  "command": "/usr/bin/c++  -I/home/mynordma/ProductManager/ProductManager/src -I/home/mynordma/ProductManager/ProductManager/src/csv -I/home/mynordma/ProductManager/ProductManager/src/product -I/home/mynordma/ProductManager/ProductManager/src/exceptions -I/home/mynordma/ProductManager/ProductManager/src/manager -I/home/mynordma/ProductManager/ProductManager/src/structures -I/home/mynordma/ProductManager/ProductManager/src/measurer -I/home/mynordma/ProductManager/ProductManager/src/visualizer -g -std=gnu++17 -o CMakeFiles/ProductManager.dir/src/structures/bplustree/BPlusTree.cpp.o -c /home/mynordma/ProductManager/ProductManager/src/structures/bplustree/BPlusTree.cpp",
+  "file": "/home/mynordma/ProductManager/ProductManager/src/structures/bplustree/BPlusTree.cpp",
+  "output": "CMakeFiles/ProductManager.dir/src/structures/bplustree/BPlusTree.cpp.o"
 }
 ]

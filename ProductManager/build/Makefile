@@ -369,6 +369,78 @@ src/structures/avl/AVLTree.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/avl/AVLTree.cpp.s
 .PHONY : src/structures/avl/AVLTree.cpp.s
 
+src/structures/bplustree/BPlusTree.o: src/structures/bplustree/BPlusTree.cpp.o
+.PHONY : src/structures/bplustree/BPlusTree.o
+
+# target to build an object file
+src/structures/bplustree/BPlusTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/bplustree/BPlusTree.cpp.o
+.PHONY : src/structures/bplustree/BPlusTree.cpp.o
+
+src/structures/bplustree/BPlusTree.i: src/structures/bplustree/BPlusTree.cpp.i
+.PHONY : src/structures/bplustree/BPlusTree.i
+
+# target to preprocess a source file
+src/structures/bplustree/BPlusTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/bplustree/BPlusTree.cpp.i
+.PHONY : src/structures/bplustree/BPlusTree.cpp.i
+
+src/structures/bplustree/BPlusTree.s: src/structures/bplustree/BPlusTree.cpp.s
+.PHONY : src/structures/bplustree/BPlusTree.s
+
+# target to generate assembly for a file
+src/structures/bplustree/BPlusTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/bplustree/BPlusTree.cpp.s
+.PHONY : src/structures/bplustree/BPlusTree.cpp.s
+
+src/structures/btree/BNode.o: src/structures/btree/BNode.cpp.o
+.PHONY : src/structures/btree/BNode.o
+
+# target to build an object file
+src/structures/btree/BNode.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BNode.cpp.o
+.PHONY : src/structures/btree/BNode.cpp.o
+
+src/structures/btree/BNode.i: src/structures/btree/BNode.cpp.i
+.PHONY : src/structures/btree/BNode.i
+
+# target to preprocess a source file
+src/structures/btree/BNode.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BNode.cpp.i
+.PHONY : src/structures/btree/BNode.cpp.i
+
+src/structures/btree/BNode.s: src/structures/btree/BNode.cpp.s
+.PHONY : src/structures/btree/BNode.s
+
+# target to generate assembly for a file
+src/structures/btree/BNode.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BNode.cpp.s
+.PHONY : src/structures/btree/BNode.cpp.s
+
+src/structures/btree/BTree.o: src/structures/btree/BTree.cpp.o
+.PHONY : src/structures/btree/BTree.o
+
+# target to build an object file
+src/structures/btree/BTree.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BTree.cpp.o
+.PHONY : src/structures/btree/BTree.cpp.o
+
+src/structures/btree/BTree.i: src/structures/btree/BTree.cpp.i
+.PHONY : src/structures/btree/BTree.i
+
+# target to preprocess a source file
+src/structures/btree/BTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BTree.cpp.i
+.PHONY : src/structures/btree/BTree.cpp.i
+
+src/structures/btree/BTree.s: src/structures/btree/BTree.cpp.s
+.PHONY : src/structures/btree/BTree.s
+
+# target to generate assembly for a file
+src/structures/btree/BTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ProductManager.dir/build.make CMakeFiles/ProductManager.dir/src/structures/btree/BTree.cpp.s
+.PHONY : src/structures/btree/BTree.cpp.s
+
 src/structures/list/LinkedList.o: src/structures/list/LinkedList.cpp.o
 .PHONY : src/structures/list/LinkedList.o
 
@@ -528,6 +600,15 @@ help:
 	@echo "... src/structures/avl/AVLTree.o"
 	@echo "... src/structures/avl/AVLTree.i"
 	@echo "... src/structures/avl/AVLTree.s"
+	@echo "... src/structures/bplustree/BPlusTree.o"
+	@echo "... src/structures/bplustree/BPlusTree.i"
+	@echo "... src/structures/bplustree/BPlusTree.s"
+	@echo "... src/structures/btree/BNode.o"
+	@echo "... src/structures/btree/BNode.i"
+	@echo "... src/structures/btree/BNode.s"
+	@echo "... src/structures/btree/BTree.o"
+	@echo "... src/structures/btree/BTree.i"
+	@echo "... src/structures/btree/BTree.s"
 	@echo "... src/structures/list/LinkedList.o"
 	@echo "... src/structures/list/LinkedList.i"
 	@echo "... src/structures/list/LinkedList.s"

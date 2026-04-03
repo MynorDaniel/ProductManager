@@ -16,6 +16,8 @@ public:
 
     AVLNode(Product* product);
     AVLNode(Product* product, int vfe);
+    AVLNode(const Product* product);
+    AVLNode(const Product* product, int vfe);
     AVLNode(AVLNode* leftN, Product* product, AVLNode* rightN);
     AVLNode(AVLNode* leftN, int vfe, Product* valor, AVLNode* rightN);
     ~AVLNode();

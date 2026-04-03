@@ -56,3 +56,17 @@ void AVLNode::setRight(AVLNode* n){ right = n; }
 void AVLNode::setFe(int vfe) { fe = vfe;}
 
 int AVLNode::getFe(){ return fe;}
+
+AVLNode::AVLNode(const Product* product)
+{
+    data = new Product(*product);
+    left = right = NULL;
+    fe = 0;
+}
+
+AVLNode::AVLNode(const Product* product, int vfe)
+{
+    data = new Product(*product);
+    left = right = NULL;
+    fe = vfe;
+}

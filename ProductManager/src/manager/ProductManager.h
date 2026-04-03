@@ -13,6 +13,8 @@
 #include "structures/list/UnsortedLinkedList.h"
 #include "structures/list/SortedLinkedList.h"
 #include "structures/avl/AVLTree.h"
+#include "structures/btree/BTree.h"
+#include "structures/bplustree/BPlusTree.h"
 
 class ProductManager
 {
@@ -23,6 +25,8 @@ private:
     UnsortedLinkedList unsortedList;
     SortedLinkedList sortedList;
     AVLTree avlTree;
+    BTree bTree;
+    BPlusTree bPlusTree;
 
 public:
     ProductManager();
@@ -34,6 +38,8 @@ public:
     const UnsortedLinkedList& getUnsortedList() const;
     const SortedLinkedList& getSortedList() const;
     const AVLTree& getAVLTree() const;
+    const BTree& getBTree() const;
+    const BPlusTree& getBPlusTree() const;
 
 private:
 

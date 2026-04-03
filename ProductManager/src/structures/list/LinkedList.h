@@ -17,6 +17,9 @@ public:
     Product* search(const std::string& param) override;
     LinkedListNode* getHead();
     LinkedListNode* getHead() const;
+
+protected:
+    std::string buildDot(const std::string& graphName, const std::string& title) const;
 };
 
 #endif // LINKEDLIST_H

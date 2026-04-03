@@ -1,4 +1,5 @@
 #include "ProductManager.h"
+#include "visualizer/Visualizer.h"
 
 namespace Test {
     void printStructuresState(const ProductManager& manager);
@@ -11,6 +12,8 @@ ProductManager::ProductManager()
     this->measurer = Measurer();
     this->unsortedList = UnsortedLinkedList();
     this->avlTree = AVLTree();
+    this->bTree = BTree();
+    this->bPlusTree = BPlusTree(5);
 }
 
 ProductManager::~ProductManager()
@@ -25,40 +28,48 @@ void ProductManager::start()
     while (true) {
         int option = showMenu();
 
-        switch (option) {
-            case 1:
-                addProduct();
-                break;
-            case 2:
-                removeProduct();
-                break;
-            case 3:
-                searchProductByName();
-                break;
-            case 4:
-                searchProductByCategory();
-                break;
-            case 5:
-                searchProductByExpirationRange();
-                break;
-            case 6:
-                listByName();
-                break;
-            case 7:
-                compareSearches();
-                break;
-            case 8:
-                loadCSV();
-                break;
-            case 9:
-                visualizeTrees();
-                break;
-            case 0:
-                exitProgram();
-                return;
-            default:
-                std::cout << "Opción inválida." << std::endl;
-                break;
+        try {
+            switch (option) {
+                case 1:
+                    addProduct();
+                    break;
+                case 2:
+                    removeProduct();
+                    break;
+                case 3:
+                    searchProductByName();
+                    break;
+                case 4:
+                    searchProductByCategory();
+                    break;
+                case 5:
+                    searchProductByExpirationRange();
+                    break;
+                case 6:
+                    listByName();
+                    break;
+                case 7:
+                    compareSearches();
+                    break;
+                case 8:
+                    loadCSV();
+                    break;
+                case 9:
+                    visualizeTrees();
+                    break;
+                case 0:
+                    exitProgram();
+                    return;
+                default:
+                    std::cout << "Opción inválida." << std::endl;
+                    break;
+            }
+        } catch (const ProductException& e) {
+            std::cout << "Error de producto: " << e.what() << std::endl;
+        } catch (const std::exception& e) {
+            std::cout << "Error inesperado: " << e.what() << std::endl;
+        } catch (...) {
+            std::cout << "Error inesperado no identificado." << std::endl;
         }
     }
 }
@@ -134,12 +145,15 @@ void ProductManager::addProduct()
         product.validate();
         unsortedList.insert(product);
         sortedList.insert(product);
+        avlTree.insert(product);
+        bTree.insert(product);
+        bPlusTree.insert(product);
         std::cout << "Producto agregado exitosamente." << std::endl;
     } catch (const ProductException& e) {
         std::cout << "Error al agregar producto: " << e.what() << std::endl;
     }
 
-    Test::printStructuresState(*this);
+    //Test::printStructuresState(*this);
 }
 
 void ProductManager::removeProduct()
@@ -148,38 +162,103 @@ void ProductManager::removeProduct()
     std::string barcode;
     std::getline(std::cin, barcode);
 
-    Product product;
-    product.barcode = barcode;
-    unsortedList.remove(product);
-    sortedList.remove(product);
+    Product* foundProduct = unsortedList.search(barcode);
+    if (foundProduct == nullptr)
+    {
+        std::cout << "No se encontró un producto con ese código de barras." << std::endl;
+        return;
+    }
+
+    Product productToRemove = *foundProduct;
+
+    unsortedList.remove(productToRemove);
+    sortedList.remove(productToRemove);
+    avlTree.remove(productToRemove);
+    bTree.remove(productToRemove);
+    bPlusTree.remove(productToRemove);
     std::cout << "Producto eliminado." << std::endl;
 
-    Test::printStructuresState(*this);
+    //Test::printStructuresState(*this);
 }
 
 void ProductManager::searchProductByName()
 {
-    std::cout << "Buscar producto por nombre" << std::endl;
+    std::cout << "Ingrese el nombre del producto a buscar: ";
+    std::string name;
+    std::getline(std::cin, name);
+
+    Product *foundProduct = avlTree.search(name);
+    if (foundProduct == nullptr)
+    {
+        std::cout << "No se encontró un producto con ese nombre." << std::endl;
+        return;
+    }
+
+    std::cout << "Producto encontrado: "
+              << foundProduct->name << ", "
+              << foundProduct->barcode << ", "
+              << foundProduct->category << ", "
+              << foundProduct->expiry_date << ", "
+              << foundProduct->brand << ", "
+              << foundProduct->price << ", "
+              << foundProduct->stock << std::endl;
 }
 
 void ProductManager::searchProductByCategory()
 {
-    std::cout << "Buscar producto por categoría" << std::endl;
+    std::cout << "Ingrese la categoría del producto a buscar: ";
+    std::string category;
+    std::getline(std::cin, category);
+
+    Product *foundProduct = bPlusTree.search(category);
+    if (foundProduct == nullptr)
+    {
+        std::cout << "No se encontró un producto con esa categoría." << std::endl;
+        return;
+    }
+
+    std::cout << "Producto encontrado: "
+              << foundProduct->name << ", "
+              << foundProduct->barcode << ", "
+              << foundProduct->category << ", "
+              << foundProduct->expiry_date << ", "
+              << foundProduct->brand << ", "
+              << foundProduct->price << ", "
+              << foundProduct->stock << std::endl;
 }
 
 void ProductManager::searchProductByExpirationRange()
 {
-    std::cout << "Buscar producto por rango de caducidad" << std::endl;
+    std::cout << "Ingrese el rango de fechas (YYYY-MM-DD#YYYY-MM-DD): ";
+    std::string dates;
+    std::getline(std::cin, dates);
+
+    Product *foundProduct = bTree.search(dates);
+    if (foundProduct == nullptr)
+    {
+        std::cout << "No se encontraron productos en ese rango o el formato es inválido." << std::endl;
+        return;
+    }
+
+    std::cout << "Primer producto encontrado en el rango: "
+              << foundProduct->name << ", "
+              << foundProduct->barcode << ", "
+              << foundProduct->category << ", "
+              << foundProduct->expiry_date << ", "
+              << foundProduct->brand << ", "
+              << foundProduct->price << ", "
+              << foundProduct->stock << std::endl;
 }
 
 void ProductManager::listByName()
 {
-    std::cout << "Listar por nombre" << std::endl;
+    std::cout << avlTree.inOrder() << std::endl;
 }
 
 void ProductManager::compareSearches()
 {
-    std::cout << "Comparar búsquedas" << std::endl;
+    std::string report = measurer.measure(this);
+    std::cout << report << std::endl;
 }
 
 void ProductManager::loadCSV()
@@ -189,16 +268,38 @@ void ProductManager::loadCSV()
     std::getline(std::cin, filePath);
     std::vector<Product> products = csvManager.readCSV(filePath);
 
+    Logger& logger = csvManager.getLogger();
+
     for(int i = 0; i < products.size(); i++) {
         std::cout << "Producto " << (i + 1) << ": " << products[i].name << ", " << products[i].barcode << ", " 
                   << products[i].category << ", " << products[i].expiry_date << ", " << products[i].brand 
                   << ", " << products[i].price << ", " << products[i].stock << std::endl;
 
-        unsortedList.insert(products[i]);
-        sortedList.insert(products[i]);
+        try
+        {
+            unsortedList.insert(products[i]);
+            sortedList.insert(products[i]);
+            avlTree.insert(products[i]);
+            bTree.insert(products[i]);
+            bPlusTree.insert(products[i]);
+        }
+        catch (const ProductException& e)
+        {
+            logger.addLog(std::string("No se pudo insertar producto '") + products[i].name + "': " + e.what());
+            continue;
+        }
+        catch (const std::exception& e)
+        {
+            logger.addLog(std::string("Error inesperado al insertar producto '") + products[i].name + "': " + e.what());
+            continue;
+        }
+        catch (...)
+        {
+            logger.addLog(std::string("Error no identificado al insertar producto '") + products[i].name + "'.");
+            continue;
+        }
     }
 
-    Logger& logger = csvManager.getLogger();
     std::string logs = logger.getLogs();
 
     std::cout << "\nLogs de carga del CSV:" << std::endl;
@@ -209,12 +310,13 @@ void ProductManager::loadCSV()
     std::cout << "Logs guardados en: " << logsPath << std::endl;
     logger.clearLogs();
 
-    Test::printStructuresState(*this);
+    //Test::printStructuresState(*this);
 }
 
 void ProductManager::visualizeTrees()
 {
-    std::cout << "Visualizar árboles" << std::endl;
+    Visualizer visualizer;
+    visualizer.visualize(this);
 }
 
 void ProductManager::exitProgram()
@@ -232,6 +334,14 @@ const SortedLinkedList& ProductManager::getSortedList() const {
 
 const AVLTree& ProductManager::getAVLTree() const {
     return this->avlTree;
+}
+
+const BTree& ProductManager::getBTree() const {
+    return this->bTree;
+}
+
+const BPlusTree& ProductManager::getBPlusTree() const {
+    return this->bPlusTree;
 }
 
 namespace Test {
@@ -258,7 +368,12 @@ namespace Test {
 
         std::string avlProducts = manager.getAVLTree().inOrder();
         std::cout << avlProducts << std::endl;
+        std::cout << "\nÁrbol AVL (visualización):" << std::endl;
         printTree(manager.getAVLTree().getRoot(), 0, 5);
+        std::cout << "\nÁrbol B (visualización):" << std::endl;
+        std::cout << manager.getBTree().listAscending() << std::endl;
+        std::cout << "\nÁrbol B+ (visualización):" << std::endl;
+        std::cout << manager.getBPlusTree().listProducts() << std::endl;
     }
 
     void printTree(AVLNode* node, int space, int indent) {

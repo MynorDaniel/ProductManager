@@ -13,3 +13,8 @@ void UnsortedLinkedList::insert(const Product& product)
     newNode->setNext(head);
     head = newNode;
 }
+
+std::string UnsortedLinkedList::toDot() const
+{
+    return buildDot("UnsortedLinkedList", "Lista no ordenada");
+}

@@ -10,6 +10,7 @@ public:
     ~SortedLinkedList() override;
 
     void insert(const Product& product) override;
+    std::string toDot() const;
 };
 
 #endif // SORTEDLINKEDLIST_H

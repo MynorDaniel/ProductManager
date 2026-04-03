@@ -35,3 +35,8 @@ void SortedLinkedList::insert(const Product& product)
     newNode->setNext(current->getNext());
     current->setNext(newNode);
 }
+
+std::string SortedLinkedList::toDot() const
+{
+    return buildDot("SortedLinkedList", "Lista ordenada");
+}

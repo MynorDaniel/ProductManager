@@ -21,6 +21,9 @@ add_executable(ProductManager
     src/structures/list/UnsortedLinkedList.cpp
     src/structures/avl/AVLNode.cpp
     src/structures/avl/AVLTree.cpp
+    src/structures/btree/BNode.cpp
+    src/structures/btree/BTree.cpp
+        src/structures/bplustree/BPlusTree.cpp
 )
 
 target_include_directories(ProductManager PRIVATE
